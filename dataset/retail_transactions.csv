@@ -1,0 +1,1501 @@
+transaction_id,transaction_date,customer_id,region,product_category,product_name,quantity,unit_price_inr,discount_pct,sales_amount_inr,payment_method
+TXN000388,1/1/2025,CUST0187,Central,Beauty,Body Lotion,1,349,5,331.55,Credit Card
+TXN001127,1/1/2025,CUST0011,Central,Clothing,Jeans,1,1299,0,1299,UPI
+TXN000720,1/2/2025,CUST0148,North,Beauty,Sunscreen,1,499,10,449.1,Net Banking
+TXN000721,1/2/2025,CUST0058,East,Beauty,Face Wash,2,249,15,423.3,Debit Card
+TXN000975,1/2/2025,CUST0057,East,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Cash
+TXN001137,1/2/2025,CUST0048,Central,Home & Kitchen,Nonstick Pan,2,999,15,1698.3,Cash
+TXN001201,1/2/2025,CUST0185,North,Home & Kitchen,LED Desk Lamp,2,899,5,1708.1,Credit Card
+TXN000504,1/3/2025,CUST0044,East,Home & Kitchen,LED Desk Lamp,1,899,0,899,Cash
+TXN000528,1/3/2025,CUST0049,West,Electronics,Headphones,1,1299,5,1234.05,Credit Card
+TXN000022,1/4/2025,CUST0057,East,Electronics,USB-C Cable,1,299,0,299,UPI
+TXN000150,1/4/2025,CUST0090,North,Home & Kitchen,Nonstick Pan,2,999,0,1998,UPI
+TXN000155,1/4/2025,CUST0015,North,Home & Kitchen,Storage Box,2,499,0,998,UPI
+TXN000573,1/4/2025,CUST0060,South,Home & Kitchen,LED Desk Lamp,3,899,0,2697,Credit Card
+TXN001107,1/4/2025,CUST0191,Central,Grocery,Olive Oil,1,699,10,629.1,Net Banking
+TXN000120,1/5/2025,CUST0071,East,Electronics,Headphones,2,1299,10,2338.2,Credit Card
+TXN000220,1/5/2025,CUST0138,West,Beauty,Shampoo,3,399,10,1077.3,Debit Card
+TXN000552,1/5/2025,CUST0177,Central,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Debit Card
+TXN001113,1/5/2025,CUST0091,South,Beauty,Shampoo,1,399,5,379.05,Cash
+TXN000536,1/6/2025,CUST0113,Central,Grocery,Olive Oil,1,699,10,629.1,Net Banking
+TXN000699,1/6/2025,CUST0137,East,Grocery,Oats,2,199,0,398,Debit Card
+TXN000711,1/6/2025,CUST0141,West,Electronics,Wireless Mouse,1,599,5,569.05,Debit Card
+TXN001014,1/6/2025,CUST0010,West,Home & Kitchen,Mixer Grinder,2,2799,5,5318.1,UPI
+TXN000479,1/7/2025,CUST0014,West,Home & Kitchen,Nonstick Pan,3,999,15,2547.45,Credit Card
+TXN000806,1/7/2025,CUST0046,North,Electronics,Power Bank,1,1499,10,1349.1,UPI
+TXN001168,1/7/2025,CUST0020,South,Beauty,Shampoo,2,399,5,758.1,Net Banking
+TXN001415,1/7/2025,CUST0129,East,Electronics,Bluetooth Speaker,2,1899,0,3798,Debit Card
+TXN000619,1/8/2025,CUST0074,South,Electronics,Bluetooth Speaker,1,1899,0,1899,Net Banking
+TXN000800,1/8/2025,CUST0196,North,Home & Kitchen,Mixer Grinder,1,2799,10,2519.1,UPI
+TXN001352,1/8/2025,CUST0117,West,Beauty,Moisturizer,2,549,10,988.2,UPI
+TXN000080,1/9/2025,CUST0115,Central,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Debit Card
+TXN000137,1/9/2025,CUST0083,North,Electronics,USB-C Cable,2,299,5,568.1,Cash
+TXN000186,1/9/2025,CUST0138,North,Grocery,Rice 5kg,2,499,0,998,Net Banking
+TXN000189,1/9/2025,CUST0192,North,Electronics,Bluetooth Speaker,1,1899,10,1709.1,Net Banking
+TXN000280,1/9/2025,CUST0074,South,Beauty,Shampoo,1,399,0,399,Credit Card
+TXN000604,1/9/2025,CUST0153,East,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN001239,1/9/2025,CUST0166,East,Electronics,Power Bank,2,1499,0,2998,Cash
+TXN001334,1/9/2025,CUST0119,Central,Beauty,Face Wash,4,249,5,946.2,Credit Card
+TXN000663,1/10/2025,CUST0138,North,Clothing,Kurta,1,899,0,899,Debit Card
+TXN000412,1/11/2025,CUST0096,North,Clothing,Kurta,1,899,5,854.05,Credit Card
+TXN001037,1/11/2025,CUST0124,Central,Beauty,Face Wash,2,249,15,423.3,Net Banking
+TXN001262,1/11/2025,CUST0086,Central,Electronics,USB-C Cable,2,299,15,508.3,Debit Card
+TXN001383,1/11/2025,CUST0010,South,Electronics,Headphones,1,1299,5,1234.05,Debit Card
+TXN000258,1/12/2025,CUST0194,South,Grocery,Oats,1,199,10,179.1,Cash
+TXN000441,1/12/2025,CUST0188,North,Home & Kitchen,Water Bottle,1,399,10,359.1,Cash
+TXN000475,1/13/2025,CUST0028,South,Electronics,Wireless Mouse,1,599,10,539.1,Debit Card
+TXN001154,1/13/2025,CUST0058,West,Beauty,Shampoo,1,399,0,399,UPI
+TXN001304,1/13/2025,CUST0150,North,Electronics,USB-C Cable,1,299,0,299,Debit Card
+TXN001384,1/13/2025,CUST0078,West,Home & Kitchen,Water Bottle,1,399,0,399,Cash
+TXN001482,1/13/2025,CUST0183,North,Electronics,Bluetooth Speaker,3,1899,10,5127.3,Debit Card
+TXN001095,1/14/2025,CUST0098,Central,Electronics,Bluetooth Speaker,1,1899,0,1899,Cash
+TXN001281,1/14/2025,CUST0144,South,Electronics,USB-C Cable,2,299,0,598,Net Banking
+TXN000543,1/15/2025,CUST0151,South,Clothing,Cotton T-Shirt,1,499,10,449.1,Credit Card
+TXN000742,1/15/2025,CUST0041,Central,Electronics,Wireless Mouse,3,599,10,1617.3,Net Banking
+TXN001020,1/15/2025,CUST0108,South,Home & Kitchen,Water Bottle,1,399,15,339.15,Credit Card
+TXN001063,1/15/2025,CUST0112,East,Clothing,Hoodie,2,1599,0,3198,Cash
+TXN000321,1/16/2025,CUST0145,East,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Credit Card
+TXN001225,1/16/2025,CUST0156,East,Grocery,Tea,2,249,0,498,UPI
+TXN001226,1/16/2025,CUST0056,East,Home & Kitchen,Water Bottle,2,399,15,678.3,Debit Card
+TXN001232,1/16/2025,CUST0102,North,Clothing,Hoodie,2,1599,0,3198,Credit Card
+TXN001311,1/16/2025,CUST0168,North,Beauty,Moisturizer,1,549,15,466.65,Credit Card
+TXN000286,1/17/2025,CUST0169,West,Clothing,Cotton T-Shirt,4,499,5,1896.2,UPI
+TXN000324,1/17/2025,CUST0077,South,Clothing,Cotton T-Shirt,1,499,20,399.2,Credit Card
+TXN000650,1/17/2025,CUST0038,North,Grocery,Olive Oil,1,699,0,699,Cash
+TXN000814,1/17/2025,CUST0005,West,Electronics,Power Bank,1,1499,15,1274.15,Cash
+TXN000815,1/17/2025,CUST0010,West,Clothing,Jeans,1,1299,0,1299,Cash
+TXN000899,1/17/2025,CUST0129,Central,Clothing,Hoodie,1,1599,0,1599,Credit Card
+TXN000375,1/18/2025,CUST0039,Central,Grocery,Rice 5kg,2,499,5,948.1,Cash
+TXN000404,1/18/2025,CUST0183,North,Grocery,Tea,2,249,5,473.1,Cash
+TXN000696,1/18/2025,CUST0094,North,Beauty,Moisturizer,1,549,5,521.55,Credit Card
+TXN001088,1/18/2025,CUST0193,West,Grocery,Olive Oil,1,699,5,664.05,UPI
+TXN001231,1/18/2025,CUST0043,Central,Grocery,Oats,1,199,10,179.1,Debit Card
+TXN001353,1/18/2025,CUST0033,Central,Electronics,USB-C Cable,5,299,0,1495,Cash
+TXN000427,1/19/2025,CUST0100,Central,Grocery,Rice 5kg,1,499,10,449.1,Cash
+TXN000652,1/19/2025,CUST0093,North,Clothing,Kurta,1,899,0,899,Cash
+TXN001313,1/19/2025,CUST0180,Central,Beauty,Body Lotion,2,349,15,593.3,Cash
+TXN000447,1/21/2025,CUST0042,North,Home & Kitchen,LED Desk Lamp,1,899,0,899,UPI
+TXN000511,1/21/2025,CUST0092,North,Beauty,Shampoo,1,399,0,399,Credit Card
+TXN001364,1/21/2025,CUST0154,East,Home & Kitchen,Water Bottle,1,399,10,359.1,Credit Card
+TXN000157,1/22/2025,CUST0102,Central,Beauty,Face Wash,3,249,5,709.65,Cash
+TXN000166,1/22/2025,CUST0190,South,Grocery,Rice 5kg,1,499,5,474.05,UPI
+TXN000235,1/22/2025,CUST0075,West,Electronics,Bluetooth Speaker,4,1899,10,6836.4,Credit Card
+TXN000583,1/22/2025,CUST0162,East,Grocery,Tea,1,249,5,236.55,Credit Card
+TXN000637,1/22/2025,CUST0104,Central,Beauty,Moisturizer,1,549,15,466.65,Net Banking
+TXN000835,1/22/2025,CUST0165,Central,Electronics,Wireless Mouse,3,599,0,1797,Debit Card
+TXN001270,1/22/2025,CUST0049,Central,Clothing,Socks Pack,1,249,10,224.1,Debit Card
+TXN000261,1/23/2025,CUST0190,North,Home & Kitchen,Nonstick Pan,1,999,15,849.15,Credit Card
+TXN001153,1/23/2025,CUST0006,South,Clothing,Cotton T-Shirt,1,499,10,449.1,UPI
+TXN001156,1/23/2025,CUST0022,West,Home & Kitchen,LED Desk Lamp,1,899,5,854.05,Credit Card
+TXN001339,1/23/2025,CUST0184,Central,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN000670,1/24/2025,CUST0120,South,Clothing,Cotton T-Shirt,2,499,0,998,Debit Card
+TXN000729,1/24/2025,CUST0159,East,Home & Kitchen,Water Bottle,1,399,0,399,UPI
+TXN000934,1/24/2025,CUST0151,Central,Electronics,Bluetooth Speaker,1,1899,0,1899,Debit Card
+TXN000193,1/25/2025,CUST0092,West,Clothing,Kurta,1,899,0,899,Cash
+TXN000219,1/25/2025,CUST0091,West,Beauty,Body Lotion,3,349,10,942.3,Debit Card
+TXN000333,1/25/2025,CUST0175,West,Beauty,Face Wash,1,249,15,211.65,Cash
+TXN000767,1/25/2025,CUST0198,South,Clothing,Hoodie,4,1599,5,6076.2,Net Banking
+TXN001019,1/25/2025,CUST0002,North,Home & Kitchen,Storage Box,1,499,0,499,UPI
+TXN001359,1/25/2025,CUST0088,East,Grocery,Tea,1,249,15,211.65,Debit Card
+TXN000237,1/26/2025,CUST0063,West,Grocery,Rice 5kg,2,499,0,998,Debit Card
+TXN000369,1/26/2025,CUST0132,West,Clothing,Jeans,1,1299,0,1299,Net Banking
+TXN001255,1/26/2025,CUST0026,Central,Beauty,Shampoo,1,399,0,399,Debit Card
+TXN001460,1/26/2025,CUST0178,South,Beauty,Shampoo,2,399,0,798,Debit Card
+TXN000228,1/27/2025,CUST0059,West,Home & Kitchen,Nonstick Pan,2,999,5,1898.1,Credit Card
+TXN000584,1/27/2025,CUST0093,North,Home & Kitchen,Water Bottle,1,399,0,399,Credit Card
+TXN001033,1/27/2025,CUST0050,South,Home & Kitchen,Storage Box,1,499,5,474.05,Credit Card
+TXN001109,1/27/2025,CUST0091,South,Beauty,Shampoo,1,399,0,399,Net Banking
+TXN001140,1/27/2025,CUST0070,Central,Home & Kitchen,Nonstick Pan,1,999,5,949.05,Debit Card
+TXN000432,1/28/2025,CUST0106,Central,Home & Kitchen,Storage Box,5,499,0,2495,Cash
+TXN001257,1/28/2025,CUST0030,South,Clothing,Jeans,1,1299,0,1299,Net Banking
+TXN001449,1/28/2025,CUST0109,West,Clothing,Cotton T-Shirt,2,499,10,898.2,Net Banking
+TXN000164,1/29/2025,CUST0152,East,Electronics,Bluetooth Speaker,1,1899,0,1899,Debit Card
+TXN000208,1/29/2025,CUST0129,South,Grocery,Rice 5kg,1,499,0,499,Debit Card
+TXN000380,1/29/2025,CUST0137,South,Grocery,Oats,1,199,10,179.1,Credit Card
+TXN000609,1/29/2025,CUST0021,South,Clothing,Hoodie,1,1599,15,1359.15,Net Banking
+TXN000756,1/29/2025,CUST0086,Central,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN000434,1/30/2025,CUST0163,South,Clothing,Jeans,2,1299,0,2598,Cash
+TXN001142,1/30/2025,CUST0084,South,Electronics,Bluetooth Speaker,1,1899,20,1519.2,Debit Card
+TXN001189,1/30/2025,CUST0165,East,Home & Kitchen,Nonstick Pan,1,999,15,849.15,Cash
+TXN001335,1/30/2025,CUST0105,West,Clothing,Socks Pack,2,249,20,398.4,Credit Card
+TXN001416,1/30/2025,CUST0161,West,Electronics,Power Bank,5,1499,5,7120.25,Credit Card
+TXN001051,1/31/2025,CUST0052,West,Home & Kitchen,Mixer Grinder,5,2799,15,11895.75,Net Banking
+TXN001170,1/31/2025,CUST0040,West,Grocery,Rice 5kg,1,499,0,499,Cash
+TXN000818,2/1/2025,CUST0083,Central,Electronics,USB-C Cable,3,299,0,897,UPI
+TXN000939,2/1/2025,CUST0069,South,Grocery,Oats,1,199,0,199,UPI
+TXN000353,2/2/2025,CUST0135,North,Grocery,Coffee,1,349,5,331.55,Cash
+TXN000653,2/3/2025,CUST0141,Central,Home & Kitchen,Water Bottle,2,399,0,798,Cash
+TXN000955,2/3/2025,CUST0045,South,Electronics,USB-C Cable,1,299,5,284.05,Net Banking
+TXN000981,2/3/2025,CUST0183,East,Home & Kitchen,Storage Box,1,499,0,499,Debit Card
+TXN000260,2/4/2025,CUST0053,North,Electronics,Power Bank,2,1499,10,2698.2,Credit Card
+TXN000310,2/4/2025,CUST0082,South,Electronics,Wireless Mouse,3,599,5,1707.15,Credit Card
+TXN001024,2/4/2025,CUST0012,Central,Clothing,Socks Pack,1,249,20,199.2,Net Banking
+TXN000069,2/5/2025,CUST0167,North,Electronics,Wireless Mouse,4,599,0,2396,Net Banking
+TXN000134,2/5/2025,CUST0053,South,Grocery,Rice 5kg,2,499,10,898.2,Debit Card
+TXN000255,2/5/2025,CUST0016,West,Clothing,Hoodie,1,1599,0,1599,Debit Card
+TXN000576,2/5/2025,CUST0049,East,Clothing,Cotton T-Shirt,2,499,5,948.1,Net Banking
+TXN001261,2/5/2025,CUST0175,West,Clothing,Hoodie,1,1599,0,1599,Cash
+TXN000034,2/7/2025,CUST0081,South,Grocery,Tea,5,249,0,1245,Net Banking
+TXN000055,2/7/2025,CUST0197,West,Grocery,Rice 5kg,2,499,0,998,Credit Card
+TXN000484,2/7/2025,CUST0092,North,Clothing,Socks Pack,1,249,0,249,Net Banking
+TXN000541,2/7/2025,CUST0144,Central,Clothing,Cotton T-Shirt,3,499,20,1197.6,Net Banking
+TXN000858,2/7/2025,CUST0066,East,Electronics,Wireless Mouse,1,599,0,599,Net Banking
+TXN001301,2/7/2025,CUST0010,South,Clothing,Socks Pack,2,249,0,498,Debit Card
+TXN000277,2/8/2025,CUST0009,South,Electronics,Wireless Mouse,1,599,10,539.1,UPI
+TXN000516,2/9/2025,CUST0059,Central,Clothing,Jeans,1,1299,0,1299,UPI
+TXN001012,2/9/2025,CUST0095,South,Grocery,Olive Oil,1,699,0,699,Net Banking
+TXN001173,2/9/2025,CUST0155,West,Beauty,Sunscreen,1,499,5,474.05,Credit Card
+TXN001248,2/9/2025,CUST0178,West,Electronics,USB-C Cable,1,299,0,299,Credit Card
+TXN000006,2/10/2025,CUST0097,North,Grocery,Olive Oil,2,699,10,1258.2,Credit Card
+TXN000288,2/10/2025,CUST0177,North,Clothing,Cotton T-Shirt,1,499,0,499,Debit Card
+TXN000879,2/10/2025,CUST0112,East,Clothing,Jeans,5,1299,10,5845.5,Credit Card
+TXN000884,2/10/2025,CUST0048,West,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN001034,2/10/2025,CUST0130,West,Beauty,Moisturizer,1,549,0,549,Credit Card
+TXN000061,2/11/2025,CUST0139,North,Home & Kitchen,LED Desk Lamp,2,899,10,1618.2,Cash
+TXN000845,2/11/2025,CUST0071,East,Beauty,Sunscreen,2,499,15,848.3,Cash
+TXN000949,2/11/2025,CUST0138,West,Electronics,Headphones,1,1299,10,1169.1,UPI
+TXN000984,2/11/2025,CUST0187,Central,Grocery,Coffee,1,349,0,349,Debit Card
+TXN000180,2/12/2025,CUST0073,West,Clothing,Hoodie,3,1599,0,4797,UPI
+TXN000613,2/12/2025,CUST0087,Central,Electronics,Headphones,1,1299,0,1299,Cash
+TXN001082,2/12/2025,CUST0030,Central,Grocery,Rice 5kg,1,499,5,474.05,Cash
+TXN001093,2/12/2025,CUST0117,East,Beauty,Shampoo,1,399,0,399,Credit Card
+TXN001121,2/12/2025,CUST0125,South,Home & Kitchen,Nonstick Pan,1,999,5,949.05,Debit Card
+TXN001141,2/12/2025,CUST0084,Central,Grocery,Olive Oil,2,699,0,1398,Debit Card
+TXN001150,2/12/2025,CUST0064,North,Grocery,Coffee,2,349,0,698,Net Banking
+TXN001188,2/12/2025,CUST0096,North,Grocery,Oats,1,199,15,169.15,Net Banking
+TXN001357,2/12/2025,CUST0131,West,Electronics,Headphones,2,1299,10,2338.2,Cash
+TXN001418,2/12/2025,CUST0034,East,Electronics,Wireless Mouse,1,599,10,539.1,UPI
+TXN000152,2/13/2025,CUST0153,West,Home & Kitchen,Nonstick Pan,1,999,0,999,Cash
+TXN000305,2/13/2025,CUST0164,Central,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Cash
+TXN000912,2/13/2025,CUST0078,South,Clothing,Hoodie,2,1599,10,2878.2,Net Banking
+TXN001105,2/13/2025,CUST0015,West,Grocery,Oats,3,199,0,597,Net Banking
+TXN000350,2/14/2025,CUST0063,South,Beauty,Body Lotion,2,349,0,698,UPI
+TXN000376,2/14/2025,CUST0016,Central,Home & Kitchen,LED Desk Lamp,1,899,15,764.15,Credit Card
+TXN000492,2/14/2025,CUST0010,South,Home & Kitchen,Mixer Grinder,2,2799,5,5318.1,Debit Card
+TXN001163,2/14/2025,CUST0180,Central,Electronics,USB-C Cable,5,299,0,1495,Cash
+TXN000435,2/15/2025,CUST0196,West,Beauty,Sunscreen,1,499,20,399.2,UPI
+TXN000945,2/15/2025,CUST0077,West,Electronics,USB-C Cable,2,299,20,478.4,Credit Card
+TXN001207,2/15/2025,CUST0027,Central,Grocery,Oats,1,199,10,179.1,Net Banking
+TXN001268,2/15/2025,CUST0053,Central,Beauty,Face Wash,4,249,15,846.6,Cash
+TXN000013,2/16/2025,CUST0127,West,Electronics,USB-C Cable,2,299,10,538.2,Net Banking
+TXN000096,2/16/2025,CUST0007,East,Grocery,Tea,4,249,20,796.8,Net Banking
+TXN000336,2/16/2025,CUST0168,South,Electronics,USB-C Cable,1,299,0,299,Net Banking
+TXN000838,2/16/2025,CUST0128,West,Electronics,Bluetooth Speaker,1,1899,5,1804.05,Credit Card
+TXN000103,2/17/2025,CUST0105,South,Electronics,Power Bank,4,1499,5,5696.2,Cash
+TXN000294,2/17/2025,CUST0142,North,Clothing,Hoodie,1,1599,0,1599,Net Banking
+TXN000607,2/17/2025,CUST0077,West,Grocery,Rice 5kg,2,499,10,898.2,Credit Card
+TXN000677,2/17/2025,CUST0034,West,Beauty,Face Wash,1,249,10,224.1,Cash
+TXN000826,2/17/2025,CUST0191,Central,Grocery,Coffee,2,349,0,698,Net Banking
+TXN000867,2/17/2025,CUST0090,East,Clothing,Jeans,3,1299,10,3507.3,Net Banking
+TXN001045,2/17/2025,CUST0030,North,Beauty,Sunscreen,2,499,20,798.4,Net Banking
+TXN000582,2/18/2025,CUST0118,East,Home & Kitchen,LED Desk Lamp,1,899,20,719.2,Credit Card
+TXN000464,2/19/2025,CUST0030,East,Home & Kitchen,Water Bottle,1,399,10,359.1,Net Banking
+TXN001054,2/19/2025,CUST0011,East,Electronics,Power Bank,2,1499,20,2398.4,Cash
+TXN000027,2/20/2025,CUST0141,South,Grocery,Coffee,4,349,15,1186.6,Credit Card
+TXN000811,2/20/2025,CUST0008,West,Electronics,Power Bank,2,1499,20,2398.4,Net Banking
+TXN001097,2/20/2025,CUST0003,Central,Beauty,Face Wash,2,249,0,498,Debit Card
+TXN000174,2/21/2025,CUST0076,Central,Grocery,Tea,1,249,0,249,Credit Card
+TXN000967,2/21/2025,CUST0159,North,Electronics,Power Bank,1,1499,5,1424.05,UPI
+TXN001500,2/21/2025,CUST0051,Central,Home & Kitchen,Nonstick Pan,1,999,5,949.05,Cash
+TXN000167,2/22/2025,CUST0116,South,Clothing,Cotton T-Shirt,1,499,0,499,Cash
+TXN001235,2/22/2025,CUST0056,West,Grocery,Coffee,2,349,5,663.1,Debit Card
+TXN001252,2/22/2025,CUST0166,South,Electronics,Wireless Mouse,1,599,15,509.15,Debit Card
+TXN001249,2/23/2025,CUST0125,East,Grocery,Tea,1,249,0,249,Cash
+TXN000037,2/24/2025,CUST0030,East,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Credit Card
+TXN000391,2/25/2025,CUST0066,South,Electronics,Power Bank,1,1499,0,1499,Cash
+TXN000424,2/25/2025,CUST0176,East,Clothing,Kurta,2,899,15,1528.3,Debit Card
+TXN000523,2/25/2025,CUST0034,Central,Grocery,Tea,2,249,10,448.2,UPI
+TXN001390,2/25/2025,CUST0183,East,Grocery,Coffee,1,349,0,349,Cash
+TXN001391,2/25/2025,CUST0145,North,Clothing,Jeans,3,1299,20,3117.6,Net Banking
+TXN000803,2/26/2025,CUST0120,North,Beauty,Moisturizer,2,549,5,1043.1,UPI
+TXN000816,2/26/2025,CUST0196,West,Beauty,Body Lotion,2,349,5,663.1,Net Banking
+TXN000924,2/26/2025,CUST0105,East,Grocery,Olive Oil,1,699,0,699,Debit Card
+TXN001126,2/26/2025,CUST0078,North,Clothing,Kurta,2,899,0,1798,Credit Card
+TXN001164,2/26/2025,CUST0035,South,Clothing,Kurta,3,899,15,2292.45,Debit Card
+TXN001220,2/26/2025,CUST0027,South,Grocery,Coffee,1,349,0,349,UPI
+TXN001271,2/26/2025,CUST0074,East,Home & Kitchen,LED Desk Lamp,2,899,5,1708.1,Net Banking
+TXN000001,2/27/2025,CUST0164,Central,Clothing,Jeans,1,1299,10,1169.1,UPI
+TXN000251,2/27/2025,CUST0145,South,Grocery,Tea,1,249,5,236.55,Debit Card
+TXN000344,2/27/2025,CUST0099,East,Grocery,Coffee,1,349,20,279.2,Debit Card
+TXN000455,2/27/2025,CUST0125,Central,Electronics,Wireless Mouse,1,599,0,599,Net Banking
+TXN000616,2/27/2025,CUST0023,Central,Beauty,Moisturizer,1,549,0,549,UPI
+TXN000773,2/27/2025,CUST0177,North,Electronics,USB-C Cable,2,299,0,598,Cash
+TXN000887,2/27/2025,CUST0049,South,Home & Kitchen,Water Bottle,1,399,5,379.05,Cash
+TXN001484,2/27/2025,CUST0193,South,Clothing,Hoodie,2,1599,0,3198,Cash
+TXN001122,2/28/2025,CUST0197,North,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,Net Banking
+TXN001337,2/28/2025,CUST0060,North,Home & Kitchen,Nonstick Pan,3,999,5,2847.15,Net Banking
+TXN000399,3/1/2025,CUST0122,North,Beauty,Sunscreen,1,499,10,449.1,Net Banking
+TXN001067,3/1/2025,CUST0191,North,Home & Kitchen,Mixer Grinder,4,2799,5,10636.2,Debit Card
+TXN001459,3/1/2025,CUST0111,Central,Grocery,Olive Oil,5,699,5,3320.25,Credit Card
+TXN000248,3/2/2025,CUST0177,South,Clothing,Kurta,2,899,0,1798,Cash
+TXN000532,3/2/2025,CUST0169,East,Beauty,Shampoo,1,399,5,379.05,Net Banking
+TXN001080,3/2/2025,CUST0009,West,Beauty,Moisturizer,2,549,20,878.4,UPI
+TXN001110,3/2/2025,CUST0197,Central,Beauty,Moisturizer,1,549,0,549,Cash
+TXN001308,3/2/2025,CUST0026,East,Electronics,Headphones,1,1299,0,1299,Debit Card
+TXN001412,3/3/2025,CUST0176,West,Beauty,Moisturizer,1,549,15,466.65,Debit Card
+TXN000185,3/4/2025,CUST0078,West,Beauty,Body Lotion,1,349,0,349,Net Banking
+TXN000373,3/4/2025,CUST0085,West,Electronics,USB-C Cable,4,299,0,1196,Cash
+TXN000581,3/4/2025,CUST0004,North,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Credit Card
+TXN001241,3/4/2025,CUST0165,North,Grocery,Coffee,1,349,0,349,Credit Card
+TXN001246,3/4/2025,CUST0172,East,Home & Kitchen,Nonstick Pan,1,999,5,949.05,Debit Card
+TXN000126,3/5/2025,CUST0138,East,Clothing,Socks Pack,1,249,5,236.55,UPI
+TXN000931,3/5/2025,CUST0166,North,Electronics,USB-C Cable,4,299,5,1136.2,Net Banking
+TXN001028,3/5/2025,CUST0158,East,Beauty,Shampoo,2,399,0,798,Cash
+TXN001064,3/5/2025,CUST0172,South,Grocery,Oats,1,199,10,179.1,Net Banking
+TXN000019,3/6/2025,CUST0197,Central,Beauty,Body Lotion,1,349,5,331.55,Cash
+TXN000110,3/6/2025,CUST0010,Central,Clothing,Cotton T-Shirt,3,499,0,1497,Cash
+TXN000328,3/6/2025,CUST0168,South,Home & Kitchen,Storage Box,1,499,0,499,Cash
+TXN000578,3/6/2025,CUST0069,South,Electronics,USB-C Cable,1,299,0,299,Debit Card
+TXN001084,3/6/2025,CUST0147,North,Electronics,Headphones,1,1299,10,1169.1,Cash
+TXN001245,3/6/2025,CUST0031,West,Home & Kitchen,Nonstick Pan,3,999,20,2397.6,Cash
+TXN000051,3/7/2025,CUST0142,Central,Beauty,Shampoo,2,399,0,798,UPI
+TXN000502,3/7/2025,CUST0092,South,Home & Kitchen,Water Bottle,1,399,0,399,Debit Card
+TXN000922,3/7/2025,CUST0130,Central,Beauty,Shampoo,4,399,5,1516.2,UPI
+TXN001160,3/7/2025,CUST0083,West,Beauty,Moisturizer,1,549,0,549,Net Banking
+TXN000215,3/8/2025,CUST0103,North,Grocery,Tea,1,249,0,249,Debit Card
+TXN001005,3/8/2025,CUST0053,South,Clothing,Hoodie,3,1599,10,4317.3,Net Banking
+TXN001129,3/8/2025,CUST0198,East,Clothing,Socks Pack,1,249,0,249,Credit Card
+TXN000035,3/9/2025,CUST0068,Central,Electronics,USB-C Cable,1,299,0,299,Debit Card
+TXN000253,3/9/2025,CUST0117,East,Beauty,Body Lotion,1,349,5,331.55,UPI
+TXN000752,3/9/2025,CUST0056,South,Home & Kitchen,Water Bottle,1,399,10,359.1,Cash
+TXN001182,3/9/2025,CUST0115,West,Clothing,Socks Pack,3,249,0,747,Credit Card
+TXN000267,3/10/2025,CUST0136,West,Clothing,Jeans,1,1299,0,1299,Debit Card
+TXN000339,3/10/2025,CUST0199,South,Home & Kitchen,Water Bottle,1,399,0,399,Cash
+TXN000364,3/10/2025,CUST0130,South,Beauty,Face Wash,2,249,0,498,Credit Card
+TXN000527,3/10/2025,CUST0109,West,Home & Kitchen,Water Bottle,1,399,15,339.15,Debit Card
+TXN000988,3/10/2025,CUST0022,North,Clothing,Hoodie,1,1599,0,1599,Cash
+TXN001050,3/10/2025,CUST0181,South,Home & Kitchen,Nonstick Pan,4,999,5,3796.2,Credit Card
+TXN000569,3/11/2025,CUST0114,Central,Home & Kitchen,Nonstick Pan,2,999,5,1898.1,Cash
+TXN000787,3/11/2025,CUST0178,East,Electronics,Bluetooth Speaker,1,1899,5,1804.05,UPI
+TXN001106,3/11/2025,CUST0188,Central,Grocery,Tea,2,249,0,498,Credit Card
+TXN000224,3/12/2025,CUST0010,Central,Beauty,Body Lotion,1,349,5,331.55,Credit Card
+TXN000471,3/12/2025,CUST0035,East,Grocery,Olive Oil,3,699,5,1992.15,Net Banking
+TXN000904,3/12/2025,CUST0086,North,Home & Kitchen,LED Desk Lamp,4,899,10,3236.4,Credit Card
+TXN000928,3/12/2025,CUST0196,East,Beauty,Sunscreen,2,499,0,998,UPI
+TXN000341,3/13/2025,CUST0026,South,Grocery,Oats,1,199,0,199,Credit Card
+TXN000506,3/13/2025,CUST0072,Central,Clothing,Cotton T-Shirt,2,499,15,848.3,UPI
+TXN000686,3/13/2025,CUST0056,East,Electronics,USB-C Cable,2,299,5,568.1,Cash
+TXN001426,3/13/2025,CUST0072,South,Beauty,Shampoo,3,399,0,1197,Credit Card
+TXN001487,3/13/2025,CUST0195,East,Clothing,Cotton T-Shirt,1,499,0,499,Debit Card
+TXN000329,3/14/2025,CUST0126,North,Clothing,Hoodie,1,1599,0,1599,Cash
+TXN001325,3/14/2025,CUST0096,North,Beauty,Sunscreen,4,499,0,1996,Debit Card
+TXN001438,3/14/2025,CUST0080,South,Beauty,Sunscreen,1,499,0,499,Credit Card
+TXN000111,3/15/2025,CUST0004,East,Home & Kitchen,Water Bottle,1,399,20,319.2,Net Banking
+TXN000198,3/15/2025,CUST0008,East,Beauty,Face Wash,1,249,0,249,Debit Card
+TXN000263,3/15/2025,CUST0078,Central,Home & Kitchen,LED Desk Lamp,1,899,0,899,Credit Card
+TXN000497,3/15/2025,CUST0163,North,Clothing,Cotton T-Shirt,2,499,5,948.1,UPI
+TXN001165,3/15/2025,CUST0118,North,Grocery,Oats,1,199,10,179.1,Credit Card
+TXN000105,3/16/2025,CUST0142,North,Grocery,Tea,2,249,0,498,Debit Card
+TXN000115,3/16/2025,CUST0111,South,Beauty,Body Lotion,2,349,0,698,UPI
+TXN000580,3/16/2025,CUST0193,East,Beauty,Face Wash,1,249,0,249,Cash
+TXN000630,3/16/2025,CUST0111,North,Grocery,Rice 5kg,1,499,5,474.05,Credit Card
+TXN000631,3/16/2025,CUST0082,East,Clothing,Hoodie,4,1599,0,6396,Credit Card
+TXN000771,3/16/2025,CUST0197,Central,Clothing,Jeans,1,1299,10,1169.1,Debit Card
+TXN001124,3/16/2025,CUST0050,West,Grocery,Rice 5kg,1,499,0,499,Net Banking
+TXN001456,3/16/2025,CUST0187,Central,Beauty,Moisturizer,1,549,5,521.55,Credit Card
+TXN000135,3/17/2025,CUST0199,South,Grocery,Coffee,1,349,20,279.2,Net Banking
+TXN000406,3/17/2025,CUST0161,North,Clothing,Kurta,3,899,15,2292.45,UPI
+TXN000831,3/17/2025,CUST0119,North,Clothing,Hoodie,1,1599,15,1359.15,Credit Card
+TXN000919,3/17/2025,CUST0026,South,Beauty,Face Wash,1,249,0,249,Cash
+TXN001490,3/17/2025,CUST0078,Central,Clothing,Kurta,2,899,10,1618.2,Cash
+TXN000425,3/18/2025,CUST0049,Central,Home & Kitchen,Water Bottle,3,399,10,1077.3,Cash
+TXN000556,3/18/2025,CUST0038,Central,Electronics,USB-C Cable,1,299,0,299,Net Banking
+TXN000719,3/18/2025,CUST0128,East,Electronics,Wireless Mouse,2,599,0,1198,Cash
+TXN000278,3/19/2025,CUST0182,Central,Grocery,Oats,1,199,5,189.05,Cash
+TXN000144,3/20/2025,CUST0096,West,Beauty,Face Wash,1,249,0,249,UPI
+TXN000348,3/20/2025,CUST0158,South,Clothing,Cotton T-Shirt,1,499,0,499,Net Banking
+TXN000483,3/20/2025,CUST0011,Central,Electronics,Headphones,3,1299,0,3897,Net Banking
+TXN001212,3/20/2025,CUST0007,Central,Grocery,Tea,1,249,0,249,Cash
+TXN001250,3/20/2025,CUST0168,West,Electronics,USB-C Cable,1,299,0,299,Net Banking
+TXN000043,3/21/2025,CUST0192,East,Home & Kitchen,Storage Box,3,499,0,1497,Cash
+TXN000130,3/21/2025,CUST0151,East,Electronics,Power Bank,2,1499,15,2548.3,UPI
+TXN000259,3/21/2025,CUST0089,North,Electronics,Wireless Mouse,3,599,0,1797,Credit Card
+TXN001468,3/21/2025,CUST0008,North,Home & Kitchen,Nonstick Pan,1,999,0,999,Debit Card
+TXN000735,3/22/2025,CUST0200,North,Beauty,Face Wash,1,249,0,249,Net Banking
+TXN000903,3/22/2025,CUST0093,South,Beauty,Body Lotion,1,349,15,296.65,Debit Card
+TXN001403,3/22/2025,CUST0153,South,Grocery,Rice 5kg,1,499,0,499,Debit Card
+TXN000059,3/23/2025,CUST0115,East,Beauty,Sunscreen,1,499,0,499,Net Banking
+TXN000834,3/23/2025,CUST0052,Central,Electronics,Bluetooth Speaker,2,1899,0,3798,Credit Card
+TXN001299,3/23/2025,CUST0008,South,Electronics,Power Bank,4,1499,5,5696.2,Credit Card
+TXN001480,3/23/2025,CUST0085,West,Electronics,Wireless Mouse,2,599,10,1078.2,Net Banking
+TXN001488,3/23/2025,CUST0079,South,Clothing,Hoodie,2,1599,10,2878.2,Credit Card
+TXN000017,3/24/2025,CUST0096,North,Grocery,Coffee,2,349,5,663.1,Debit Card
+TXN000651,3/24/2025,CUST0046,West,Grocery,Tea,2,249,5,473.1,Net Banking
+TXN000846,3/24/2025,CUST0026,Central,Grocery,Coffee,1,349,5,331.55,Debit Card
+TXN001180,3/24/2025,CUST0075,South,Beauty,Face Wash,3,249,0,747,Credit Card
+TXN001448,3/24/2025,CUST0004,West,Grocery,Tea,1,249,5,236.55,Cash
+TXN000287,3/25/2025,CUST0077,West,Grocery,Oats,2,199,5,378.1,Credit Card
+TXN000558,3/25/2025,CUST0177,East,Clothing,Hoodie,3,1599,0,4797,Debit Card
+TXN000791,3/25/2025,CUST0088,Central,Home & Kitchen,Nonstick Pan,1,999,0,999,Net Banking
+TXN000865,3/25/2025,CUST0067,North,Beauty,Face Wash,5,249,15,1058.25,Cash
+TXN001331,3/25/2025,CUST0067,East,Home & Kitchen,Storage Box,3,499,0,1497,UPI
+TXN000114,3/27/2025,CUST0114,East,Electronics,Wireless Mouse,1,599,0,599,Debit Card
+TXN000296,3/27/2025,CUST0017,East,Beauty,Moisturizer,1,549,0,549,Credit Card
+TXN000354,3/27/2025,CUST0146,North,Clothing,Cotton T-Shirt,3,499,10,1347.3,Credit Card
+TXN000405,3/27/2025,CUST0045,West,Home & Kitchen,Storage Box,1,499,0,499,Credit Card
+TXN000453,3/27/2025,CUST0167,West,Electronics,USB-C Cable,1,299,15,254.15,Net Banking
+TXN000565,3/27/2025,CUST0054,North,Electronics,Wireless Mouse,4,599,5,2276.2,UPI
+TXN000700,3/27/2025,CUST0075,North,Grocery,Olive Oil,2,699,5,1328.1,Cash
+TXN000789,3/27/2025,CUST0193,East,Clothing,Kurta,1,899,10,809.1,UPI
+TXN000943,3/27/2025,CUST0168,West,Beauty,Moisturizer,2,549,10,988.2,Debit Card
+TXN000701,3/28/2025,CUST0149,South,Clothing,Socks Pack,1,249,5,236.55,Net Banking
+TXN000821,3/28/2025,CUST0087,Central,Clothing,Cotton T-Shirt,1,499,15,424.15,Net Banking
+TXN001155,3/28/2025,CUST0126,North,Electronics,Bluetooth Speaker,1,1899,5,1804.05,Debit Card
+TXN000394,3/29/2025,CUST0088,East,Electronics,Headphones,4,1299,20,4156.8,Net Banking
+TXN000521,3/29/2025,CUST0124,South,Beauty,Body Lotion,1,349,5,331.55,Net Banking
+TXN000645,3/29/2025,CUST0197,North,Home & Kitchen,Storage Box,3,499,0,1497,Cash
+TXN000747,3/29/2025,CUST0108,Central,Home & Kitchen,Mixer Grinder,2,2799,10,5038.2,Credit Card
+TXN000853,3/29/2025,CUST0095,West,Electronics,Headphones,1,1299,15,1104.15,Cash
+TXN000885,3/29/2025,CUST0004,Central,Beauty,Sunscreen,3,499,20,1197.6,Cash
+TXN001099,3/29/2025,CUST0013,Central,Beauty,Shampoo,1,399,10,359.1,Net Banking
+TXN001139,3/29/2025,CUST0031,East,Grocery,Rice 5kg,1,499,5,474.05,Credit Card
+TXN001237,3/29/2025,CUST0116,North,Grocery,Oats,1,199,0,199,Net Banking
+TXN001259,3/29/2025,CUST0053,North,Clothing,Kurta,2,899,0,1798,UPI
+TXN001466,3/29/2025,CUST0179,North,Clothing,Hoodie,1,1599,15,1359.15,Cash
+TXN000897,3/30/2025,CUST0034,West,Grocery,Oats,1,199,0,199,Debit Card
+TXN000097,3/31/2025,CUST0011,West,Beauty,Moisturizer,1,549,5,521.55,UPI
+TXN000136,3/31/2025,CUST0065,South,Electronics,USB-C Cable,1,299,10,269.1,Net Banking
+TXN000311,3/31/2025,CUST0133,West,Clothing,Socks Pack,1,249,5,236.55,Credit Card
+TXN001269,3/31/2025,CUST0135,East,Clothing,Kurta,1,899,0,899,Debit Card
+TXN001300,3/31/2025,CUST0027,East,Beauty,Sunscreen,4,499,0,1996,UPI
+TXN000384,4/1/2025,CUST0088,South,Clothing,Cotton T-Shirt,1,499,5,474.05,UPI
+TXN000469,4/1/2025,CUST0200,Central,Home & Kitchen,Storage Box,1,499,10,449.1,Debit Card
+TXN000481,4/1/2025,CUST0115,North,Home & Kitchen,Storage Box,2,499,0,998,Cash
+TXN000636,4/1/2025,CUST0017,South,Grocery,Oats,2,199,15,338.3,Cash
+TXN000740,4/1/2025,CUST0128,West,Electronics,Wireless Mouse,2,599,0,1198,Debit Card
+TXN001375,4/1/2025,CUST0030,West,Electronics,Bluetooth Speaker,2,1899,10,3418.2,Cash
+TXN000016,4/2/2025,CUST0129,South,Electronics,Bluetooth Speaker,3,1899,5,5412.15,Credit Card
+TXN000594,4/2/2025,CUST0034,Central,Home & Kitchen,Water Bottle,1,399,0,399,Cash
+TXN000599,4/2/2025,CUST0161,Central,Grocery,Oats,2,199,10,358.2,Debit Card
+TXN000717,4/2/2025,CUST0101,Central,Electronics,USB-C Cable,1,299,0,299,UPI
+TXN001073,4/2/2025,CUST0199,South,Beauty,Moisturizer,5,549,10,2470.5,UPI
+TXN000500,4/3/2025,CUST0030,Central,Grocery,Coffee,3,349,15,889.95,Cash
+TXN000694,4/3/2025,CUST0160,South,Beauty,Body Lotion,3,349,0,1047,Credit Card
+TXN001123,4/3/2025,CUST0157,North,Grocery,Rice 5kg,1,499,0,499,Debit Card
+TXN000191,4/4/2025,CUST0162,South,Electronics,Power Bank,1,1499,0,1499,UPI
+TXN000452,4/4/2025,CUST0088,West,Beauty,Sunscreen,1,499,0,499,Cash
+TXN000768,4/4/2025,CUST0074,East,Home & Kitchen,Storage Box,1,499,0,499,Net Banking
+TXN000400,4/5/2025,CUST0100,West,Beauty,Moisturizer,1,549,0,549,Cash
+TXN001128,4/5/2025,CUST0111,North,Clothing,Kurta,1,899,0,899,Net Banking
+TXN001146,4/5/2025,CUST0118,South,Home & Kitchen,Storage Box,2,499,15,848.3,Debit Card
+TXN000241,4/6/2025,CUST0127,North,Clothing,Cotton T-Shirt,1,499,5,474.05,Debit Card
+TXN000293,4/6/2025,CUST0023,North,Grocery,Tea,1,249,0,249,Debit Card
+TXN000269,4/7/2025,CUST0019,East,Grocery,Tea,1,249,0,249,Debit Card
+TXN000440,4/7/2025,CUST0092,South,Beauty,Face Wash,1,249,10,224.1,Credit Card
+TXN000577,4/7/2025,CUST0126,North,Home & Kitchen,Water Bottle,4,399,0,1596,Debit Card
+TXN000632,4/7/2025,CUST0200,East,Home & Kitchen,Water Bottle,2,399,5,758.1,Net Banking
+TXN000932,4/7/2025,CUST0134,South,Grocery,Coffee,1,349,15,296.65,UPI
+TXN001202,4/7/2025,CUST0191,South,Grocery,Rice 5kg,2,499,0,998,Credit Card
+TXN001402,4/7/2025,CUST0180,Central,Electronics,Headphones,1,1299,0,1299,Cash
+TXN000026,4/8/2025,CUST0050,North,Home & Kitchen,LED Desk Lamp,1,899,5,854.05,Cash
+TXN001131,4/8/2025,CUST0168,East,Beauty,Face Wash,1,249,5,236.55,Debit Card
+TXN000243,4/9/2025,CUST0070,South,Clothing,Jeans,2,1299,5,2468.1,UPI
+TXN000416,4/9/2025,CUST0045,East,Electronics,USB-C Cable,1,299,0,299,Credit Card
+TXN000588,4/9/2025,CUST0113,North,Beauty,Moisturizer,2,549,0,1098,Cash
+TXN000671,4/9/2025,CUST0052,East,Grocery,Olive Oil,2,699,10,1258.2,Credit Card
+TXN000725,4/9/2025,CUST0010,Central,Grocery,Rice 5kg,1,499,0,499,Debit Card
+TXN000833,4/9/2025,CUST0039,West,Clothing,Hoodie,1,1599,20,1279.2,UPI
+TXN001228,4/9/2025,CUST0103,Central,Home & Kitchen,Mixer Grinder,4,2799,0,11196,Debit Card
+TXN001477,4/9/2025,CUST0131,South,Home & Kitchen,LED Desk Lamp,1,899,15,764.15,Cash
+TXN000540,4/10/2025,CUST0156,Central,Beauty,Body Lotion,1,349,0,349,UPI
+TXN000776,4/10/2025,CUST0101,East,Grocery,Tea,1,249,0,249,Cash
+TXN000446,4/12/2025,CUST0128,West,Clothing,Socks Pack,4,249,0,996,Debit Card
+TXN000808,4/12/2025,CUST0094,West,Grocery,Oats,1,199,10,179.1,Debit Card
+TXN001199,4/12/2025,CUST0153,East,Grocery,Tea,1,249,10,224.1,UPI
+TXN001236,4/12/2025,CUST0082,North,Beauty,Sunscreen,1,499,0,499,UPI
+TXN000848,4/13/2025,CUST0103,Central,Clothing,Socks Pack,1,249,0,249,Credit Card
+TXN001227,4/13/2025,CUST0124,West,Grocery,Olive Oil,1,699,10,629.1,Net Banking
+TXN001478,4/13/2025,CUST0183,West,Clothing,Cotton T-Shirt,3,499,0,1497,Cash
+TXN000746,4/14/2025,CUST0070,West,Electronics,Headphones,1,1299,0,1299,Cash
+TXN000813,4/14/2025,CUST0120,Central,Beauty,Sunscreen,1,499,5,474.05,Net Banking
+TXN001029,4/14/2025,CUST0076,West,Home & Kitchen,Water Bottle,1,399,10,359.1,Debit Card
+TXN001176,4/14/2025,CUST0142,Central,Electronics,USB-C Cable,1,299,20,239.2,UPI
+TXN001251,4/14/2025,CUST0132,East,Home & Kitchen,Water Bottle,1,399,0,399,Net Banking
+TXN000230,4/15/2025,CUST0177,North,Grocery,Oats,3,199,10,537.3,Credit Card
+TXN000620,4/15/2025,CUST0055,South,Clothing,Socks Pack,1,249,10,224.1,UPI
+TXN001288,4/15/2025,CUST0064,North,Electronics,Headphones,1,1299,0,1299,Debit Card
+TXN001340,4/15/2025,CUST0061,East,Clothing,Hoodie,1,1599,0,1599,Credit Card
+TXN000396,4/16/2025,CUST0085,South,Grocery,Tea,1,249,0,249,UPI
+TXN000798,4/16/2025,CUST0155,South,Home & Kitchen,Storage Box,2,499,0,998,Debit Card
+TXN000911,4/16/2025,CUST0165,West,Grocery,Oats,2,199,15,338.3,Credit Card
+TXN000933,4/16/2025,CUST0071,East,Grocery,Oats,1,199,5,189.05,Cash
+TXN001144,4/16/2025,CUST0142,West,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Credit Card
+TXN001229,4/16/2025,CUST0043,East,Beauty,Sunscreen,1,499,10,449.1,Net Banking
+TXN000090,4/17/2025,CUST0196,North,Clothing,Cotton T-Shirt,1,499,0,499,Credit Card
+TXN000231,4/17/2025,CUST0133,West,Beauty,Body Lotion,1,349,20,279.2,Net Banking
+TXN000367,4/17/2025,CUST0092,East,Beauty,Moisturizer,3,549,0,1647,Net Banking
+TXN000874,4/17/2025,CUST0006,South,Beauty,Moisturizer,2,549,20,878.4,UPI
+TXN001086,4/17/2025,CUST0193,North,Electronics,USB-C Cable,3,299,10,807.3,Net Banking
+TXN001306,4/17/2025,CUST0049,Central,Beauty,Body Lotion,1,349,5,331.55,Credit Card
+TXN001392,4/17/2025,CUST0044,West,Grocery,Rice 5kg,1,499,0,499,Net Banking
+TXN000212,4/18/2025,CUST0167,Central,Beauty,Body Lotion,2,349,5,663.1,Debit Card
+TXN000554,4/18/2025,CUST0109,South,Clothing,Kurta,3,899,0,2697,Net Banking
+TXN000654,4/18/2025,CUST0135,Central,Grocery,Coffee,1,349,10,314.1,UPI
+TXN000898,4/18/2025,CUST0061,South,Electronics,Bluetooth Speaker,3,1899,0,5697,Credit Card
+TXN001048,4/18/2025,CUST0069,North,Clothing,Cotton T-Shirt,5,499,10,2245.5,UPI
+TXN001429,4/18/2025,CUST0146,Central,Clothing,Kurta,1,899,10,809.1,Net Banking
+TXN000133,4/19/2025,CUST0170,South,Grocery,Coffee,1,349,0,349,Net Banking
+TXN000270,4/19/2025,CUST0004,South,Electronics,Power Bank,3,1499,10,4047.3,Cash
+TXN000414,4/19/2025,CUST0114,Central,Beauty,Body Lotion,3,349,10,942.3,Credit Card
+TXN000727,4/19/2025,CUST0031,Central,Grocery,Oats,4,199,15,676.6,Credit Card
+TXN000923,4/19/2025,CUST0178,North,Electronics,USB-C Cable,4,299,0,1196,Net Banking
+TXN000944,4/19/2025,CUST0162,Central,Grocery,Olive Oil,1,699,10,629.1,UPI
+TXN001254,4/19/2025,CUST0111,East,Grocery,Oats,1,199,0,199,Debit Card
+TXN000340,4/20/2025,CUST0090,South,Home & Kitchen,LED Desk Lamp,2,899,0,1798,UPI
+TXN000825,4/20/2025,CUST0138,South,Electronics,Bluetooth Speaker,5,1899,0,9495,Net Banking
+TXN001371,4/20/2025,CUST0186,South,Electronics,Power Bank,2,1499,0,2998,UPI
+TXN001411,4/20/2025,CUST0155,West,Clothing,Jeans,3,1299,5,3702.15,Debit Card
+TXN000184,4/21/2025,CUST0066,East,Grocery,Tea,1,249,0,249,Credit Card
+TXN000368,4/21/2025,CUST0011,East,Clothing,Jeans,1,1299,0,1299,Cash
+TXN000666,4/21/2025,CUST0078,South,Home & Kitchen,Water Bottle,1,399,0,399,UPI
+TXN000745,4/21/2025,CUST0038,South,Home & Kitchen,LED Desk Lamp,1,899,5,854.05,Debit Card
+TXN000778,4/21/2025,CUST0023,West,Beauty,Sunscreen,3,499,0,1497,Cash
+TXN000926,4/21/2025,CUST0073,North,Beauty,Face Wash,1,249,0,249,Cash
+TXN000472,4/22/2025,CUST0162,South,Grocery,Olive Oil,2,699,15,1188.3,Credit Card
+TXN000839,4/22/2025,CUST0109,East,Home & Kitchen,Storage Box,4,499,0,1996,Net Banking
+TXN000987,4/22/2025,CUST0102,East,Beauty,Body Lotion,1,349,10,314.1,Net Banking
+TXN001077,4/22/2025,CUST0054,North,Home & Kitchen,Water Bottle,1,399,15,339.15,Credit Card
+TXN001470,4/22/2025,CUST0102,West,Grocery,Olive Oil,1,699,0,699,Net Banking
+TXN000731,4/23/2025,CUST0158,West,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,Debit Card
+TXN000774,4/23/2025,CUST0159,Central,Electronics,Bluetooth Speaker,1,1899,5,1804.05,Net Banking
+TXN000978,4/23/2025,CUST0045,South,Home & Kitchen,Mixer Grinder,3,2799,0,8397,UPI
+TXN001070,4/23/2025,CUST0076,North,Beauty,Shampoo,2,399,0,798,Net Banking
+TXN001267,4/23/2025,CUST0106,West,Clothing,Hoodie,1,1599,5,1519.05,Debit Card
+TXN000371,4/24/2025,CUST0200,North,Beauty,Moisturizer,2,549,15,933.3,Net Banking
+TXN000550,4/24/2025,CUST0102,Central,Home & Kitchen,Water Bottle,1,399,0,399,UPI
+TXN001367,4/24/2025,CUST0021,Central,Clothing,Jeans,1,1299,0,1299,UPI
+TXN000463,4/25/2025,CUST0014,East,Clothing,Socks Pack,2,249,5,473.1,Cash
+TXN000678,4/25/2025,CUST0060,East,Grocery,Olive Oil,3,699,0,2097,Debit Card
+TXN000851,4/25/2025,CUST0147,West,Grocery,Tea,2,249,15,423.3,Credit Card
+TXN000854,4/25/2025,CUST0031,South,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Cash
+TXN000093,4/26/2025,CUST0140,East,Clothing,Jeans,1,1299,0,1299,Net Banking
+TXN000125,4/26/2025,CUST0194,North,Beauty,Body Lotion,1,349,10,314.1,Debit Card
+TXN000233,4/26/2025,CUST0077,West,Clothing,Jeans,2,1299,5,2468.1,Debit Card
+TXN000401,4/26/2025,CUST0068,North,Grocery,Coffee,1,349,10,314.1,UPI
+TXN000420,4/26/2025,CUST0166,North,Clothing,Hoodie,1,1599,15,1359.15,Cash
+TXN000627,4/26/2025,CUST0072,Central,Beauty,Shampoo,1,399,0,399,Credit Card
+TXN000635,4/26/2025,CUST0050,South,Electronics,Bluetooth Speaker,4,1899,0,7596,Credit Card
+TXN000960,4/26/2025,CUST0189,North,Electronics,USB-C Cable,1,299,0,299,UPI
+TXN001463,4/26/2025,CUST0057,Central,Clothing,Jeans,1,1299,0,1299,Cash
+TXN001493,4/26/2025,CUST0088,North,Home & Kitchen,Storage Box,1,499,10,449.1,Credit Card
+TXN000795,4/27/2025,CUST0177,North,Home & Kitchen,Storage Box,5,499,0,2495,UPI
+TXN000995,4/27/2025,CUST0059,Central,Home & Kitchen,LED Desk Lamp,1,899,5,854.05,Cash
+TXN001338,4/27/2025,CUST0184,East,Clothing,Kurta,1,899,10,809.1,Net Banking
+TXN000338,4/28/2025,CUST0019,South,Electronics,Wireless Mouse,1,599,15,509.15,Cash
+TXN000517,4/28/2025,CUST0170,South,Clothing,Cotton T-Shirt,1,499,5,474.05,Net Banking
+TXN000547,4/28/2025,CUST0053,North,Home & Kitchen,Nonstick Pan,1,999,10,899.1,UPI
+TXN001382,4/28/2025,CUST0184,South,Home & Kitchen,Mixer Grinder,1,2799,0,2799,UPI
+TXN000082,4/29/2025,CUST0065,South,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Credit Card
+TXN000363,4/29/2025,CUST0012,Central,Beauty,Moisturizer,1,549,10,494.1,UPI
+TXN000537,4/29/2025,CUST0179,South,Electronics,Bluetooth Speaker,1,1899,0,1899,UPI
+TXN001145,4/29/2025,CUST0115,West,Beauty,Moisturizer,1,549,5,521.55,Credit Card
+TXN001373,4/29/2025,CUST0077,East,Beauty,Sunscreen,2,499,0,998,Net Banking
+TXN000127,4/30/2025,CUST0173,North,Grocery,Tea,1,249,5,236.55,Cash
+TXN000657,4/30/2025,CUST0157,North,Home & Kitchen,Water Bottle,1,399,5,379.05,Credit Card
+TXN001003,4/30/2025,CUST0053,North,Grocery,Coffee,1,349,0,349,Credit Card
+TXN001066,4/30/2025,CUST0112,Central,Electronics,Bluetooth Speaker,1,1899,0,1899,Credit Card
+TXN000054,5/1/2025,CUST0024,West,Home & Kitchen,Storage Box,1,499,0,499,Net Banking
+TXN000129,5/1/2025,CUST0025,Central,Beauty,Sunscreen,1,499,15,424.15,Cash
+TXN000844,5/1/2025,CUST0024,West,Home & Kitchen,LED Desk Lamp,2,899,15,1528.3,UPI
+TXN001053,5/1/2025,CUST0150,North,Electronics,Wireless Mouse,1,599,10,539.1,Net Banking
+TXN000023,5/2/2025,CUST0132,Central,Beauty,Shampoo,1,399,10,359.1,Net Banking
+TXN000119,5/2/2025,CUST0028,North,Clothing,Socks Pack,1,249,10,224.1,Cash
+TXN000648,5/2/2025,CUST0127,Central,Beauty,Sunscreen,1,499,0,499,UPI
+TXN000843,5/2/2025,CUST0137,East,Beauty,Face Wash,3,249,0,747,Debit Card
+TXN000018,5/3/2025,CUST0079,North,Grocery,Coffee,1,349,5,331.55,Net Banking
+TXN000070,5/3/2025,CUST0040,East,Electronics,Headphones,4,1299,5,4936.2,Debit Card
+TXN000177,5/3/2025,CUST0137,West,Beauty,Shampoo,1,399,15,339.15,Cash
+TXN000737,5/3/2025,CUST0106,North,Electronics,Headphones,1,1299,5,1234.05,Debit Card
+TXN000938,5/3/2025,CUST0052,West,Grocery,Rice 5kg,1,499,10,449.1,UPI
+TXN001175,5/3/2025,CUST0008,East,Grocery,Coffee,1,349,5,331.55,Credit Card
+TXN000187,5/4/2025,CUST0091,Central,Home & Kitchen,Water Bottle,1,399,0,399,Net Banking
+TXN000628,5/4/2025,CUST0107,Central,Beauty,Moisturizer,3,549,0,1647,Credit Card
+TXN000024,5/5/2025,CUST0122,East,Beauty,Shampoo,1,399,10,359.1,Cash
+TXN000077,5/5/2025,CUST0116,West,Grocery,Tea,2,249,0,498,Debit Card
+TXN000229,5/5/2025,CUST0175,South,Electronics,USB-C Cable,1,299,0,299,Cash
+TXN000282,5/5/2025,CUST0145,North,Clothing,Cotton T-Shirt,2,499,15,848.3,UPI
+TXN000820,5/6/2025,CUST0170,East,Clothing,Socks Pack,1,249,10,224.1,UPI
+TXN001148,5/6/2025,CUST0110,North,Beauty,Face Wash,2,249,0,498,Net Banking
+TXN000216,5/7/2025,CUST0116,West,Electronics,Bluetooth Speaker,4,1899,15,6456.6,Credit Card
+TXN000250,5/7/2025,CUST0196,East,Grocery,Coffee,1,349,5,331.55,UPI
+TXN000291,5/7/2025,CUST0076,South,Electronics,Bluetooth Speaker,1,1899,10,1709.1,Cash
+TXN000567,5/7/2025,CUST0059,North,Beauty,Shampoo,1,399,10,359.1,UPI
+TXN000983,5/7/2025,CUST0084,West,Clothing,Jeans,3,1299,20,3117.6,Credit Card
+TXN000044,5/8/2025,CUST0172,South,Electronics,Power Bank,3,1499,15,3822.45,Credit Card
+TXN000457,5/8/2025,CUST0170,Central,Beauty,Shampoo,3,399,5,1137.15,UPI
+TXN001035,5/8/2025,CUST0156,West,Grocery,Oats,4,199,0,796,UPI
+TXN000179,5/9/2025,CUST0036,Central,Beauty,Moisturizer,2,549,0,1098,UPI
+TXN000476,5/9/2025,CUST0175,East,Electronics,Bluetooth Speaker,1,1899,5,1804.05,Cash
+TXN000643,5/9/2025,CUST0024,East,Home & Kitchen,Water Bottle,1,399,10,359.1,UPI
+TXN001025,5/9/2025,CUST0044,South,Clothing,Hoodie,2,1599,20,2558.4,Debit Card
+TXN001274,5/9/2025,CUST0013,South,Clothing,Socks Pack,2,249,10,448.2,UPI
+TXN000117,5/11/2025,CUST0118,West,Beauty,Moisturizer,2,549,0,1098,Debit Card
+TXN000254,5/11/2025,CUST0102,North,Home & Kitchen,Nonstick Pan,1,999,0,999,Net Banking
+TXN000442,5/11/2025,CUST0164,North,Grocery,Coffee,2,349,0,698,UPI
+TXN000124,5/12/2025,CUST0043,North,Clothing,Kurta,3,899,5,2562.15,Credit Card
+TXN000935,5/12/2025,CUST0098,East,Electronics,Headphones,1,1299,0,1299,UPI
+TXN001186,5/12/2025,CUST0122,West,Beauty,Shampoo,4,399,20,1276.8,UPI
+TXN000372,5/13/2025,CUST0151,South,Electronics,Wireless Mouse,1,599,5,569.05,UPI
+TXN000718,5/13/2025,CUST0114,West,Electronics,Wireless Mouse,2,599,0,1198,UPI
+TXN000900,5/13/2025,CUST0125,South,Clothing,Cotton T-Shirt,2,499,5,948.1,Net Banking
+TXN000915,5/13/2025,CUST0096,North,Clothing,Cotton T-Shirt,1,499,10,449.1,Cash
+TXN001427,5/13/2025,CUST0076,East,Clothing,Cotton T-Shirt,1,499,5,474.05,Net Banking
+TXN000047,5/14/2025,CUST0030,East,Clothing,Cotton T-Shirt,1,499,0,499,Cash
+TXN000067,5/14/2025,CUST0013,West,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,Debit Card
+TXN000365,5/14/2025,CUST0075,North,Beauty,Moisturizer,1,549,0,549,Credit Card
+TXN000783,5/15/2025,CUST0040,West,Beauty,Face Wash,2,249,15,423.3,Credit Card
+TXN000856,5/15/2025,CUST0075,West,Beauty,Shampoo,1,399,10,359.1,UPI
+TXN000979,5/15/2025,CUST0046,East,Home & Kitchen,LED Desk Lamp,2,899,15,1528.3,Credit Card
+TXN000863,5/16/2025,CUST0195,South,Beauty,Shampoo,1,399,20,319.2,Net Banking
+TXN001485,5/16/2025,CUST0054,South,Electronics,Power Bank,3,1499,5,4272.15,Debit Card
+TXN000327,5/17/2025,CUST0147,North,Electronics,USB-C Cable,4,299,10,1076.4,Debit Card
+TXN000759,5/17/2025,CUST0091,West,Beauty,Moisturizer,1,549,0,549,Cash
+TXN000822,5/17/2025,CUST0108,Central,Beauty,Body Lotion,1,349,0,349,Cash
+TXN000832,5/17/2025,CUST0106,South,Home & Kitchen,Mixer Grinder,2,2799,0,5598,UPI
+TXN001323,5/17/2025,CUST0135,West,Grocery,Tea,1,249,0,249,Net Banking
+TXN001454,5/17/2025,CUST0139,North,Clothing,Hoodie,1,1599,0,1599,Net Banking
+TXN000332,5/18/2025,CUST0127,West,Clothing,Kurta,1,899,0,899,Debit Card
+TXN000871,5/18/2025,CUST0161,West,Electronics,Bluetooth Speaker,4,1899,10,6836.4,Debit Card
+TXN001378,5/18/2025,CUST0014,West,Home & Kitchen,Mixer Grinder,2,2799,0,5598,Cash
+TXN001430,5/18/2025,CUST0191,North,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Net Banking
+TXN000673,5/19/2025,CUST0082,Central,Clothing,Socks Pack,1,249,0,249,Debit Card
+TXN000755,5/19/2025,CUST0110,North,Grocery,Tea,2,249,10,448.2,Net Banking
+TXN001275,5/19/2025,CUST0183,South,Home & Kitchen,LED Desk Lamp,2,899,0,1798,UPI
+TXN001314,5/19/2025,CUST0034,East,Electronics,Wireless Mouse,1,599,0,599,Cash
+TXN001385,5/19/2025,CUST0034,West,Electronics,Wireless Mouse,1,599,10,539.1,UPI
+TXN001017,5/20/2025,CUST0174,Central,Clothing,Jeans,1,1299,0,1299,Credit Card
+TXN000234,5/21/2025,CUST0144,East,Grocery,Tea,1,249,20,199.2,Credit Card
+TXN000513,5/21/2025,CUST0163,West,Clothing,Socks Pack,1,249,0,249,Debit Card
+TXN000672,5/21/2025,CUST0041,East,Grocery,Tea,1,249,0,249,Net Banking
+TXN000956,5/21/2025,CUST0187,West,Electronics,Headphones,2,1299,10,2338.2,UPI
+TXN001103,5/22/2025,CUST0074,East,Home & Kitchen,Mixer Grinder,2,2799,0,5598,Cash
+TXN001336,5/22/2025,CUST0067,Central,Beauty,Shampoo,1,399,0,399,UPI
+TXN001407,5/22/2025,CUST0155,South,Grocery,Oats,1,199,0,199,Credit Card
+TXN000046,5/23/2025,CUST0018,East,Grocery,Oats,2,199,10,358.2,UPI
+TXN000148,5/23/2025,CUST0030,Central,Beauty,Body Lotion,4,349,10,1256.4,Net Banking
+TXN000330,5/23/2025,CUST0132,North,Clothing,Hoodie,4,1599,0,6396,UPI
+TXN000702,5/23/2025,CUST0020,North,Grocery,Olive Oil,1,699,0,699,Net Banking
+TXN000775,5/23/2025,CUST0057,North,Electronics,Headphones,3,1299,10,3507.3,Net Banking
+TXN000810,5/23/2025,CUST0131,South,Beauty,Face Wash,1,249,5,236.55,Credit Card
+TXN000930,5/23/2025,CUST0189,East,Home & Kitchen,Water Bottle,2,399,10,718.2,Net Banking
+TXN001030,5/23/2025,CUST0035,East,Electronics,Headphones,2,1299,0,2598,UPI
+TXN001361,5/23/2025,CUST0133,North,Grocery,Olive Oil,1,699,0,699,Debit Card
+TXN001419,5/23/2025,CUST0140,East,Grocery,Coffee,1,349,10,314.1,Credit Card
+TXN001185,5/24/2025,CUST0018,West,Clothing,Cotton T-Shirt,1,499,10,449.1,Debit Card
+TXN001324,5/24/2025,CUST0125,South,Home & Kitchen,Nonstick Pan,1,999,10,899.1,UPI
+TXN000178,5/25/2025,CUST0197,South,Grocery,Tea,1,249,0,249,Net Banking
+TXN000659,5/25/2025,CUST0177,North,Electronics,Bluetooth Speaker,1,1899,5,1804.05,UPI
+TXN001273,5/25/2025,CUST0056,East,Electronics,Wireless Mouse,1,599,0,599,UPI
+TXN001320,5/25/2025,CUST0047,East,Clothing,Socks Pack,2,249,0,498,Credit Card
+TXN000209,5/26/2025,CUST0133,South,Clothing,Jeans,2,1299,5,2468.1,Debit Card
+TXN000539,5/26/2025,CUST0141,East,Grocery,Tea,1,249,20,199.2,Credit Card
+TXN000712,5/26/2025,CUST0057,Central,Electronics,Wireless Mouse,2,599,0,1198,Credit Card
+TXN000913,5/26/2025,CUST0139,South,Grocery,Tea,1,249,0,249,UPI
+TXN001446,5/26/2025,CUST0039,South,Beauty,Face Wash,1,249,20,199.2,Credit Card
+TXN000029,5/27/2025,CUST0117,North,Grocery,Oats,1,199,0,199,Net Banking
+TXN000052,5/27/2025,CUST0078,West,Grocery,Tea,2,249,5,473.1,Credit Card
+TXN000183,5/27/2025,CUST0010,North,Home & Kitchen,LED Desk Lamp,1,899,0,899,UPI
+TXN001187,5/27/2025,CUST0094,Central,Grocery,Rice 5kg,1,499,5,474.05,Debit Card
+TXN001303,5/27/2025,CUST0174,South,Home & Kitchen,LED Desk Lamp,3,899,10,2427.3,UPI
+TXN000478,5/28/2025,CUST0179,East,Electronics,Power Bank,1,1499,20,1199.2,Net Banking
+TXN000692,5/28/2025,CUST0040,South,Home & Kitchen,Storage Box,1,499,5,474.05,Cash
+TXN000762,5/28/2025,CUST0046,South,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Credit Card
+TXN000007,5/29/2025,CUST0198,East,Home & Kitchen,Water Bottle,1,399,5,379.05,Credit Card
+TXN000262,5/29/2025,CUST0129,East,Grocery,Olive Oil,2,699,10,1258.2,Credit Card
+TXN000495,5/29/2025,CUST0028,West,Clothing,Socks Pack,1,249,10,224.1,Cash
+TXN000723,5/29/2025,CUST0195,South,Home & Kitchen,Nonstick Pan,1,999,0,999,Debit Card
+TXN000977,5/29/2025,CUST0037,South,Grocery,Olive Oil,1,699,0,699,Debit Card
+TXN000104,5/30/2025,CUST0184,South,Clothing,Hoodie,3,1599,20,3837.6,Cash
+TXN000302,5/30/2025,CUST0113,East,Electronics,Power Bank,2,1499,0,2998,Credit Card
+TXN000563,5/30/2025,CUST0168,East,Grocery,Oats,1,199,0,199,Net Banking
+TXN000623,5/30/2025,CUST0005,North,Beauty,Shampoo,4,399,5,1516.2,Debit Card
+TXN000788,5/30/2025,CUST0075,North,Electronics,Headphones,1,1299,5,1234.05,Net Banking
+TXN001072,5/30/2025,CUST0127,South,Electronics,Bluetooth Speaker,1,1899,10,1709.1,UPI
+TXN000486,5/31/2025,CUST0093,North,Grocery,Tea,1,249,5,236.55,UPI
+TXN000449,6/1/2025,CUST0117,East,Electronics,Wireless Mouse,3,599,15,1527.45,Debit Card
+TXN001374,6/1/2025,CUST0124,South,Electronics,Bluetooth Speaker,1,1899,0,1899,Cash
+TXN001486,6/1/2025,CUST0088,Central,Clothing,Hoodie,2,1599,5,3038.1,UPI
+TXN001223,6/2/2025,CUST0047,North,Home & Kitchen,Nonstick Pan,2,999,15,1698.3,Debit Card
+TXN000118,6/3/2025,CUST0151,West,Clothing,Hoodie,3,1599,0,4797,Cash
+TXN000266,6/3/2025,CUST0058,West,Home & Kitchen,LED Desk Lamp,3,899,5,2562.15,Net Banking
+TXN000413,6/3/2025,CUST0035,North,Clothing,Kurta,2,899,5,1708.1,Credit Card
+TXN001089,6/3/2025,CUST0064,East,Clothing,Socks Pack,1,249,5,236.55,Net Banking
+TXN001091,6/3/2025,CUST0037,East,Home & Kitchen,Storage Box,2,499,0,998,Debit Card
+TXN001169,6/3/2025,CUST0179,East,Clothing,Hoodie,2,1599,10,2878.2,UPI
+TXN000073,6/4/2025,CUST0179,North,Grocery,Coffee,2,349,5,663.1,Debit Card
+TXN000128,6/4/2025,CUST0180,West,Electronics,USB-C Cable,1,299,0,299,UPI
+TXN000213,6/4/2025,CUST0165,South,Beauty,Moisturizer,1,549,10,494.1,Cash
+TXN000626,6/4/2025,CUST0161,North,Clothing,Cotton T-Shirt,2,499,15,848.3,Net Banking
+TXN000782,6/4/2025,CUST0011,North,Clothing,Hoodie,2,1599,5,3038.1,UPI
+TXN001439,6/4/2025,CUST0045,South,Home & Kitchen,Storage Box,3,499,0,1497,Credit Card
+TXN000722,6/5/2025,CUST0175,North,Electronics,Bluetooth Speaker,1,1899,20,1519.2,Cash
+TXN000766,6/5/2025,CUST0118,East,Clothing,Jeans,2,1299,0,2598,Debit Card
+TXN000925,6/5/2025,CUST0096,North,Electronics,USB-C Cable,1,299,5,284.05,Debit Card
+TXN001076,6/5/2025,CUST0182,East,Home & Kitchen,Nonstick Pan,1,999,10,899.1,Credit Card
+TXN001315,6/5/2025,CUST0123,South,Home & Kitchen,Water Bottle,4,399,0,1596,Net Banking
+TXN000317,6/6/2025,CUST0062,South,Clothing,Jeans,1,1299,0,1299,Net Banking
+TXN000617,6/6/2025,CUST0198,South,Grocery,Oats,2,199,0,398,Credit Card
+TXN001111,6/6/2025,CUST0056,North,Electronics,Power Bank,3,1499,10,4047.3,Debit Card
+TXN001328,6/6/2025,CUST0170,East,Clothing,Cotton T-Shirt,3,499,10,1347.3,Debit Card
+TXN000218,6/7/2025,CUST0128,South,Electronics,Power Bank,1,1499,20,1199.2,Net Banking
+TXN000936,6/7/2025,CUST0040,North,Home & Kitchen,Water Bottle,2,399,0,798,UPI
+TXN001047,6/7/2025,CUST0151,East,Electronics,Wireless Mouse,2,599,10,1078.2,Credit Card
+TXN000173,6/8/2025,CUST0093,South,Clothing,Hoodie,1,1599,20,1279.2,UPI
+TXN000192,6/8/2025,CUST0081,South,Grocery,Oats,1,199,10,179.1,Debit Card
+TXN000646,6/8/2025,CUST0079,South,Beauty,Moisturizer,2,549,0,1098,Credit Card
+TXN000971,6/8/2025,CUST0121,South,Clothing,Kurta,4,899,5,3416.2,UPI
+TXN001006,6/8/2025,CUST0148,South,Grocery,Oats,1,199,0,199,Cash
+TXN001071,6/8/2025,CUST0082,West,Electronics,Bluetooth Speaker,5,1899,10,8545.5,Credit Card
+TXN001147,6/8/2025,CUST0006,South,Home & Kitchen,LED Desk Lamp,2,899,0,1798,UPI
+TXN001184,6/8/2025,CUST0197,East,Electronics,Power Bank,1,1499,0,1499,Credit Card
+TXN000309,6/9/2025,CUST0090,West,Home & Kitchen,Nonstick Pan,1,999,5,949.05,Cash
+TXN000415,6/9/2025,CUST0017,Central,Beauty,Shampoo,2,399,5,758.1,UPI
+TXN000579,6/9/2025,CUST0108,East,Beauty,Moisturizer,1,549,10,494.1,UPI
+TXN000676,6/9/2025,CUST0092,West,Home & Kitchen,Nonstick Pan,1,999,15,849.15,Net Banking
+TXN000970,6/9/2025,CUST0033,South,Grocery,Olive Oil,1,699,15,594.15,Credit Card
+TXN001277,6/9/2025,CUST0153,South,Beauty,Moisturizer,3,549,0,1647,Debit Card
+TXN001310,6/9/2025,CUST0129,West,Electronics,Headphones,2,1299,0,2598,Debit Card
+TXN000315,6/10/2025,CUST0164,West,Grocery,Oats,2,199,0,398,Net Banking
+TXN000450,6/10/2025,CUST0174,North,Electronics,Wireless Mouse,3,599,15,1527.45,Credit Card
+TXN000910,6/10/2025,CUST0185,West,Clothing,Socks Pack,2,249,0,498,Cash
+TXN001087,6/10/2025,CUST0115,Central,Home & Kitchen,Nonstick Pan,1,999,0,999,Debit Card
+TXN001104,6/10/2025,CUST0198,South,Electronics,Wireless Mouse,2,599,15,1018.3,Net Banking
+TXN000010,6/11/2025,CUST0009,East,Electronics,USB-C Cable,3,299,5,852.15,Credit Card
+TXN000033,6/11/2025,CUST0134,East,Clothing,Jeans,1,1299,0,1299,Cash
+TXN000433,6/11/2025,CUST0037,South,Home & Kitchen,Water Bottle,1,399,5,379.05,Debit Card
+TXN000529,6/11/2025,CUST0177,East,Electronics,USB-C Cable,1,299,5,284.05,Net Banking
+TXN000557,6/11/2025,CUST0185,West,Clothing,Kurta,2,899,5,1708.1,UPI
+TXN000665,6/11/2025,CUST0181,East,Clothing,Hoodie,1,1599,15,1359.15,Cash
+TXN000058,6/12/2025,CUST0153,West,Beauty,Body Lotion,3,349,15,889.95,Net Banking
+TXN001442,6/12/2025,CUST0033,West,Home & Kitchen,LED Desk Lamp,2,899,15,1528.3,Net Banking
+TXN000203,6/13/2025,CUST0175,South,Electronics,Headphones,1,1299,15,1104.15,Credit Card
+TXN000426,6/13/2025,CUST0170,West,Electronics,Power Bank,5,1499,0,7495,Cash
+TXN001360,6/13/2025,CUST0099,South,Home & Kitchen,Water Bottle,3,399,10,1077.3,Cash
+TXN001465,6/13/2025,CUST0088,South,Beauty,Shampoo,1,399,10,359.1,Net Banking
+TXN000299,6/14/2025,CUST0077,East,Home & Kitchen,LED Desk Lamp,1,899,20,719.2,Debit Card
+TXN000378,6/14/2025,CUST0129,East,Home & Kitchen,Water Bottle,1,399,0,399,UPI
+TXN000947,6/14/2025,CUST0170,South,Beauty,Body Lotion,1,349,15,296.65,UPI
+TXN001394,6/14/2025,CUST0010,South,Grocery,Oats,3,199,0,597,Net Banking
+TXN001216,6/15/2025,CUST0041,Central,Electronics,Wireless Mouse,1,599,5,569.05,Credit Card
+TXN001242,6/15/2025,CUST0027,East,Beauty,Shampoo,1,399,0,399,Net Banking
+TXN001377,6/15/2025,CUST0144,West,Clothing,Hoodie,1,1599,0,1599,Debit Card
+TXN001387,6/15/2025,CUST0080,East,Electronics,Bluetooth Speaker,1,1899,0,1899,Net Banking
+TXN001432,6/15/2025,CUST0009,East,Clothing,Cotton T-Shirt,1,499,5,474.05,UPI
+TXN000999,6/16/2025,CUST0077,East,Grocery,Coffee,4,349,0,1396,Net Banking
+TXN000217,6/17/2025,CUST0041,Central,Clothing,Jeans,2,1299,5,2468.1,Cash
+TXN000245,6/17/2025,CUST0132,South,Electronics,USB-C Cable,5,299,5,1420.25,UPI
+TXN000611,6/17/2025,CUST0039,West,Home & Kitchen,Storage Box,1,499,10,449.1,Cash
+TXN000668,6/17/2025,CUST0080,North,Electronics,Headphones,2,1299,0,2598,Cash
+TXN000812,6/17/2025,CUST0174,Central,Grocery,Tea,1,249,0,249,Cash
+TXN001341,6/17/2025,CUST0007,East,Clothing,Kurta,4,899,15,3056.6,Cash
+TXN000172,6/18/2025,CUST0165,East,Grocery,Coffee,2,349,0,698,UPI
+TXN001096,6/18/2025,CUST0017,South,Clothing,Kurta,2,899,0,1798,Debit Card
+TXN001347,6/18/2025,CUST0063,North,Clothing,Jeans,1,1299,10,1169.1,Credit Card
+TXN000062,6/19/2025,CUST0105,Central,Beauty,Face Wash,1,249,0,249,UPI
+TXN000306,6/19/2025,CUST0193,Central,Electronics,Wireless Mouse,1,599,0,599,Net Banking
+TXN000430,6/19/2025,CUST0108,North,Grocery,Olive Oil,1,699,0,699,Net Banking
+TXN000459,6/19/2025,CUST0062,South,Grocery,Rice 5kg,2,499,0,998,UPI
+TXN001031,6/19/2025,CUST0059,South,Home & Kitchen,Nonstick Pan,1,999,15,849.15,Credit Card
+TXN001117,6/19/2025,CUST0191,North,Home & Kitchen,LED Desk Lamp,4,899,20,2876.8,Cash
+TXN001152,6/19/2025,CUST0079,Central,Home & Kitchen,Water Bottle,1,399,0,399,UPI
+TXN000190,6/20/2025,CUST0189,West,Clothing,Socks Pack,1,249,5,236.55,Cash
+TXN000660,6/20/2025,CUST0176,South,Grocery,Tea,4,249,10,896.4,Debit Card
+TXN000716,6/20/2025,CUST0100,South,Clothing,Jeans,1,1299,5,1234.05,Net Banking
+TXN001161,6/20/2025,CUST0163,Central,Home & Kitchen,LED Desk Lamp,1,899,5,854.05,Cash
+TXN001266,6/20/2025,CUST0182,North,Grocery,Oats,1,199,10,179.1,Credit Card
+TXN000733,6/21/2025,CUST0045,East,Clothing,Jeans,2,1299,0,2598,Net Banking
+TXN000244,6/22/2025,CUST0189,West,Grocery,Rice 5kg,1,499,15,424.15,Cash
+TXN001055,6/22/2025,CUST0122,East,Clothing,Kurta,2,899,0,1798,Credit Card
+TXN000143,6/23/2025,CUST0106,East,Beauty,Sunscreen,2,499,0,998,Debit Card
+TXN000160,6/23/2025,CUST0080,Central,Home & Kitchen,Water Bottle,1,399,0,399,Credit Card
+TXN000194,6/23/2025,CUST0099,North,Beauty,Moisturizer,4,549,5,2086.2,Cash
+TXN000908,6/23/2025,CUST0022,South,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,Net Banking
+TXN001151,6/23/2025,CUST0189,West,Electronics,USB-C Cable,1,299,10,269.1,Credit Card
+TXN000086,6/24/2025,CUST0113,West,Clothing,Hoodie,1,1599,0,1599,UPI
+TXN000905,6/24/2025,CUST0122,West,Home & Kitchen,Water Bottle,1,399,10,359.1,Debit Card
+TXN000973,6/24/2025,CUST0018,Central,Beauty,Sunscreen,2,499,0,998,Net Banking
+TXN000794,6/25/2025,CUST0196,South,Clothing,Cotton T-Shirt,2,499,0,998,Credit Card
+TXN001318,6/25/2025,CUST0050,South,Electronics,USB-C Cable,1,299,5,284.05,Cash
+TXN000308,6/26/2025,CUST0039,North,Electronics,Bluetooth Speaker,1,1899,20,1519.2,Credit Card
+TXN000402,6/26/2025,CUST0172,West,Beauty,Body Lotion,1,349,0,349,Net Banking
+TXN000515,6/26/2025,CUST0091,West,Beauty,Body Lotion,1,349,15,296.65,Credit Card
+TXN000688,6/26/2025,CUST0184,South,Electronics,Headphones,5,1299,0,6495,Debit Card
+TXN001467,6/26/2025,CUST0144,West,Grocery,Olive Oil,1,699,10,629.1,Cash
+TXN000487,6/27/2025,CUST0172,East,Grocery,Tea,1,249,0,249,Cash
+TXN000551,6/27/2025,CUST0129,West,Home & Kitchen,LED Desk Lamp,4,899,10,3236.4,Debit Card
+TXN000098,6/28/2025,CUST0121,West,Clothing,Cotton T-Shirt,3,499,0,1497,Debit Card
+TXN000161,6/28/2025,CUST0199,South,Home & Kitchen,Storage Box,1,499,0,499,Net Banking
+TXN000257,6/28/2025,CUST0168,South,Grocery,Oats,1,199,10,179.1,UPI
+TXN000680,6/28/2025,CUST0197,North,Home & Kitchen,Nonstick Pan,1,999,10,899.1,Debit Card
+TXN000799,6/28/2025,CUST0149,North,Grocery,Tea,1,249,5,236.55,Net Banking
+TXN001042,6/28/2025,CUST0066,West,Beauty,Moisturizer,2,549,10,988.2,Credit Card
+TXN001295,6/28/2025,CUST0054,East,Beauty,Body Lotion,1,349,10,314.1,Net Banking
+TXN000045,6/29/2025,CUST0118,East,Home & Kitchen,Storage Box,1,499,0,499,Debit Card
+TXN001265,6/29/2025,CUST0126,East,Beauty,Moisturizer,1,549,0,549,Debit Card
+TXN000121,6/30/2025,CUST0156,South,Home & Kitchen,Nonstick Pan,1,999,10,899.1,UPI
+TXN000276,6/30/2025,CUST0044,North,Grocery,Oats,1,199,15,169.15,Net Banking
+TXN001471,6/30/2025,CUST0105,North,Beauty,Body Lotion,1,349,10,314.1,Debit Card
+TXN000008,7/1/2025,CUST0095,South,Clothing,Cotton T-Shirt,2,499,0,998,Credit Card
+TXN000146,7/1/2025,CUST0106,East,Beauty,Face Wash,4,249,5,946.2,UPI
+TXN000656,7/1/2025,CUST0160,West,Grocery,Oats,1,199,5,189.05,Credit Card
+TXN001276,7/1/2025,CUST0122,East,Beauty,Sunscreen,1,499,15,424.15,Debit Card
+TXN001294,7/1/2025,CUST0011,Central,Beauty,Moisturizer,1,549,0,549,Net Banking
+TXN001354,7/1/2025,CUST0109,East,Grocery,Rice 5kg,2,499,0,998,Net Banking
+TXN000290,7/2/2025,CUST0059,North,Beauty,Shampoo,2,399,10,718.2,Net Banking
+TXN000568,7/2/2025,CUST0170,East,Clothing,Hoodie,1,1599,15,1359.15,Net Banking
+TXN000587,7/2/2025,CUST0016,Central,Grocery,Coffee,1,349,0,349,Debit Card
+TXN001322,7/2/2025,CUST0181,East,Beauty,Moisturizer,4,549,10,1976.4,Credit Card
+TXN001455,7/2/2025,CUST0029,North,Grocery,Oats,1,199,0,199,Credit Card
+TXN000005,7/3/2025,CUST0025,Central,Grocery,Olive Oil,3,699,10,1887.3,UPI
+TXN000132,7/3/2025,CUST0166,West,Clothing,Jeans,4,1299,15,4416.6,UPI
+TXN000428,7/3/2025,CUST0172,South,Home & Kitchen,Nonstick Pan,1,999,0,999,Debit Card
+TXN001433,7/3/2025,CUST0048,Central,Beauty,Body Lotion,1,349,0,349,Cash
+TXN000084,7/4/2025,CUST0059,North,Electronics,Headphones,1,1299,0,1299,Net Banking
+TXN000247,7/4/2025,CUST0168,Central,Electronics,Wireless Mouse,1,599,0,599,Debit Card
+TXN000292,7/4/2025,CUST0082,North,Electronics,Bluetooth Speaker,1,1899,10,1709.1,Credit Card
+TXN000335,7/4/2025,CUST0168,South,Clothing,Jeans,1,1299,5,1234.05,Cash
+TXN000512,7/4/2025,CUST0133,North,Beauty,Face Wash,1,249,5,236.55,Net Banking
+TXN000559,7/4/2025,CUST0093,Central,Clothing,Kurta,1,899,0,899,Credit Card
+TXN001059,7/4/2025,CUST0163,Central,Clothing,Hoodie,1,1599,5,1519.05,UPI
+TXN001414,7/4/2025,CUST0114,East,Electronics,Headphones,1,1299,0,1299,Debit Card
+TXN000138,7/5/2025,CUST0115,North,Electronics,Power Bank,1,1499,15,1274.15,Net Banking
+TXN000159,7/5/2025,CUST0177,North,Electronics,USB-C Cable,1,299,0,299,Cash
+TXN000785,7/5/2025,CUST0191,West,Grocery,Oats,3,199,5,567.15,UPI
+TXN000841,7/5/2025,CUST0038,Central,Clothing,Kurta,1,899,20,719.2,UPI
+TXN001444,7/5/2025,CUST0095,North,Electronics,Headphones,2,1299,0,2598,Credit Card
+TXN000176,7/6/2025,CUST0106,West,Home & Kitchen,LED Desk Lamp,2,899,10,1618.2,Credit Card
+TXN000385,7/6/2025,CUST0135,South,Beauty,Body Lotion,1,349,0,349,Credit Card
+TXN000571,7/7/2025,CUST0079,South,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Debit Card
+TXN000757,7/7/2025,CUST0094,South,Grocery,Coffee,2,349,10,628.2,Debit Card
+TXN001420,7/7/2025,CUST0151,North,Beauty,Sunscreen,3,499,10,1347.3,Credit Card
+TXN001453,7/7/2025,CUST0118,East,Grocery,Olive Oil,1,699,0,699,UPI
+TXN000205,7/8/2025,CUST0147,East,Grocery,Rice 5kg,2,499,0,998,Cash
+TXN000417,7/8/2025,CUST0071,North,Grocery,Oats,2,199,0,398,Credit Card
+TXN000761,7/8/2025,CUST0159,North,Electronics,USB-C Cable,3,299,5,852.15,Cash
+TXN000041,7/9/2025,CUST0010,North,Home & Kitchen,LED Desk Lamp,1,899,0,899,Debit Card
+TXN000131,7/9/2025,CUST0177,East,Beauty,Shampoo,3,399,0,1197,Net Banking
+TXN000531,7/9/2025,CUST0046,West,Beauty,Moisturizer,5,549,5,2607.75,Credit Card
+TXN000689,7/9/2025,CUST0016,East,Electronics,Headphones,3,1299,0,3897,UPI
+TXN000860,7/9/2025,CUST0172,Central,Grocery,Coffee,2,349,0,698,Cash
+TXN000951,7/9/2025,CUST0119,East,Electronics,USB-C Cable,2,299,10,538.2,Credit Card
+TXN000145,7/10/2025,CUST0191,East,Grocery,Coffee,2,349,5,663.1,UPI
+TXN000352,7/10/2025,CUST0043,West,Clothing,Cotton T-Shirt,2,499,0,998,Debit Card
+TXN000586,7/10/2025,CUST0040,East,Home & Kitchen,Storage Box,1,499,10,449.1,UPI
+TXN000770,7/10/2025,CUST0038,West,Home & Kitchen,Nonstick Pan,1,999,15,849.15,Cash
+TXN001094,7/10/2025,CUST0183,East,Grocery,Tea,1,249,10,224.1,Cash
+TXN001174,7/10/2025,CUST0014,Central,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Debit Card
+TXN001233,7/10/2025,CUST0169,East,Clothing,Cotton T-Shirt,1,499,10,449.1,Credit Card
+TXN000182,7/11/2025,CUST0021,South,Clothing,Cotton T-Shirt,3,499,5,1422.15,Credit Card
+TXN000465,7/11/2025,CUST0134,West,Electronics,USB-C Cable,1,299,10,269.1,UPI
+TXN000618,7/11/2025,CUST0176,Central,Electronics,Wireless Mouse,2,599,0,1198,Credit Card
+TXN001040,7/11/2025,CUST0129,West,Beauty,Sunscreen,4,499,0,1996,Debit Card
+TXN001282,7/11/2025,CUST0132,West,Grocery,Tea,3,249,0,747,Credit Card
+TXN000175,7/12/2025,CUST0153,West,Home & Kitchen,Nonstick Pan,3,999,0,2997,UPI
+TXN000422,7/12/2025,CUST0109,Central,Beauty,Moisturizer,1,549,0,549,Net Banking
+TXN000950,7/12/2025,CUST0091,North,Clothing,Hoodie,1,1599,10,1439.1,UPI
+TXN001279,7/12/2025,CUST0047,East,Beauty,Face Wash,1,249,0,249,Net Banking
+TXN001388,7/12/2025,CUST0121,West,Electronics,USB-C Cable,4,299,5,1136.2,Debit Card
+TXN000392,7/13/2025,CUST0127,Central,Beauty,Face Wash,3,249,10,672.3,Credit Card
+TXN000918,7/13/2025,CUST0183,East,Home & Kitchen,Water Bottle,1,399,5,379.05,Cash
+TXN001101,7/13/2025,CUST0037,East,Clothing,Cotton T-Shirt,3,499,5,1422.15,Credit Card
+TXN001149,7/13/2025,CUST0026,North,Electronics,Wireless Mouse,2,599,5,1138.1,Credit Card
+TXN001219,7/13/2025,CUST0063,North,Electronics,Bluetooth Speaker,1,1899,0,1899,Net Banking
+TXN001344,7/13/2025,CUST0056,North,Electronics,USB-C Cable,1,299,20,239.2,UPI
+TXN001410,7/13/2025,CUST0101,Central,Beauty,Moisturizer,1,549,5,521.55,UPI
+TXN000009,7/14/2025,CUST0119,North,Grocery,Rice 5kg,2,499,10,898.2,Credit Card
+TXN000283,7/14/2025,CUST0104,North,Beauty,Face Wash,2,249,10,448.2,Cash
+TXN000802,7/14/2025,CUST0091,East,Grocery,Rice 5kg,1,499,10,449.1,UPI
+TXN001194,7/14/2025,CUST0154,South,Clothing,Hoodie,4,1599,0,6396,UPI
+TXN001316,7/14/2025,CUST0156,West,Electronics,Headphones,1,1299,0,1299,Credit Card
+TXN000116,7/15/2025,CUST0157,West,Home & Kitchen,LED Desk Lamp,3,899,0,2697,Debit Card
+TXN000374,7/15/2025,CUST0008,East,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Cash
+TXN000873,7/15/2025,CUST0155,West,Clothing,Jeans,1,1299,10,1169.1,UPI
+TXN000990,7/15/2025,CUST0070,North,Beauty,Shampoo,1,399,0,399,Debit Card
+TXN001032,7/15/2025,CUST0156,West,Home & Kitchen,LED Desk Lamp,2,899,0,1798,UPI
+TXN000246,7/16/2025,CUST0067,North,Clothing,Kurta,1,899,10,809.1,Debit Card
+TXN000470,7/16/2025,CUST0130,East,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Cash
+TXN001130,7/16/2025,CUST0150,North,Electronics,USB-C Cable,2,299,5,568.1,Net Banking
+TXN001327,7/16/2025,CUST0098,Central,Home & Kitchen,Storage Box,1,499,10,449.1,UPI
+TXN001451,7/16/2025,CUST0195,Central,Electronics,USB-C Cable,1,299,15,254.15,Debit Card
+TXN000014,7/17/2025,CUST0017,North,Beauty,Body Lotion,1,349,5,331.55,UPI
+TXN000488,7/17/2025,CUST0030,East,Clothing,Cotton T-Shirt,3,499,10,1347.3,Net Banking
+TXN001481,7/17/2025,CUST0121,Central,Beauty,Moisturizer,3,549,5,1564.65,Net Banking
+TXN000201,7/18/2025,CUST0133,Central,Clothing,Kurta,2,899,0,1798,Debit Card
+TXN000345,7/18/2025,CUST0034,West,Grocery,Oats,1,199,10,179.1,UPI
+TXN000493,7/18/2025,CUST0105,North,Beauty,Sunscreen,1,499,0,499,Net Banking
+TXN000313,7/19/2025,CUST0110,North,Home & Kitchen,Storage Box,1,499,10,449.1,Net Banking
+TXN000724,7/19/2025,CUST0179,South,Clothing,Hoodie,1,1599,5,1519.05,Credit Card
+TXN000937,7/19/2025,CUST0077,North,Home & Kitchen,LED Desk Lamp,3,899,0,2697,UPI
+TXN001023,7/19/2025,CUST0004,Central,Home & Kitchen,Water Bottle,2,399,0,798,Debit Card
+TXN001119,7/19/2025,CUST0186,North,Electronics,Wireless Mouse,1,599,0,599,Credit Card
+TXN000349,7/20/2025,CUST0084,South,Electronics,Bluetooth Speaker,2,1899,10,3418.2,UPI
+TXN000890,7/20/2025,CUST0146,West,Electronics,Wireless Mouse,2,599,10,1078.2,Cash
+TXN001074,7/20/2025,CUST0141,Central,Beauty,Moisturizer,2,549,0,1098,Debit Card
+TXN000066,7/21/2025,CUST0007,West,Electronics,Wireless Mouse,2,599,0,1198,Credit Card
+TXN000397,7/21/2025,CUST0013,North,Beauty,Shampoo,1,399,0,399,Debit Card
+TXN000642,7/21/2025,CUST0035,South,Beauty,Face Wash,1,249,5,236.55,Cash
+TXN001441,7/21/2025,CUST0176,North,Beauty,Sunscreen,3,499,10,1347.3,Cash
+TXN000807,7/22/2025,CUST0037,South,Grocery,Coffee,2,349,15,593.3,UPI
+TXN000112,7/23/2025,CUST0178,West,Clothing,Socks Pack,1,249,0,249,Net Banking
+TXN000566,7/23/2025,CUST0198,West,Electronics,Wireless Mouse,1,599,0,599,Debit Card
+TXN001036,7/23/2025,CUST0093,West,Beauty,Sunscreen,1,499,5,474.05,Credit Card
+TXN001321,7/23/2025,CUST0156,South,Electronics,Wireless Mouse,1,599,15,509.15,Cash
+TXN000538,7/24/2025,CUST0071,North,Beauty,Sunscreen,2,499,5,948.1,UPI
+TXN000976,7/24/2025,CUST0053,Central,Electronics,Bluetooth Speaker,1,1899,0,1899,UPI
+TXN001007,7/24/2025,CUST0017,West,Home & Kitchen,Nonstick Pan,1,999,5,949.05,Cash
+TXN001473,7/24/2025,CUST0046,North,Grocery,Olive Oil,2,699,10,1258.2,Cash
+TXN000099,7/25/2025,CUST0170,East,Grocery,Coffee,1,349,0,349,UPI
+TXN000221,7/25/2025,CUST0012,West,Grocery,Rice 5kg,1,499,0,499,Net Banking
+TXN001192,7/25/2025,CUST0052,West,Clothing,Kurta,5,899,5,4270.25,UPI
+TXN000100,7/26/2025,CUST0198,Central,Electronics,Headphones,1,1299,0,1299,Debit Card
+TXN001100,7/26/2025,CUST0153,South,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Credit Card
+TXN001258,7/27/2025,CUST0180,East,Electronics,USB-C Cable,2,299,15,508.3,Cash
+TXN000805,7/28/2025,CUST0142,West,Beauty,Shampoo,3,399,15,1017.45,Debit Card
+TXN000836,7/28/2025,CUST0017,South,Electronics,Power Bank,4,1499,10,5396.4,Credit Card
+TXN000941,7/28/2025,CUST0146,Central,Grocery,Rice 5kg,2,499,0,998,Credit Card
+TXN001305,7/28/2025,CUST0199,Central,Electronics,Bluetooth Speaker,1,1899,10,1709.1,Cash
+TXN001350,7/28/2025,CUST0199,East,Home & Kitchen,Nonstick Pan,1,999,0,999,UPI
+TXN000091,7/29/2025,CUST0001,East,Grocery,Oats,1,199,0,199,Cash
+TXN001348,7/29/2025,CUST0114,West,Clothing,Socks Pack,1,249,15,211.65,Net Banking
+TXN001351,7/29/2025,CUST0021,South,Home & Kitchen,Nonstick Pan,1,999,15,849.15,Credit Card
+TXN000966,7/30/2025,CUST0159,West,Grocery,Tea,1,249,0,249,Net Banking
+TXN001004,7/30/2025,CUST0084,North,Electronics,USB-C Cable,1,299,5,284.05,Cash
+TXN001376,7/30/2025,CUST0154,West,Electronics,Bluetooth Speaker,1,1899,0,1899,UPI
+TXN000273,7/31/2025,CUST0081,Central,Home & Kitchen,Storage Box,1,499,5,474.05,Net Banking
+TXN000544,7/31/2025,CUST0081,East,Grocery,Coffee,2,349,0,698,UPI
+TXN000602,7/31/2025,CUST0096,South,Beauty,Moisturizer,2,549,5,1043.1,Cash
+TXN000705,7/31/2025,CUST0193,Central,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Debit Card
+TXN000744,7/31/2025,CUST0189,North,Beauty,Shampoo,1,399,5,379.05,Cash
+TXN000881,7/31/2025,CUST0109,Central,Grocery,Olive Oil,1,699,5,664.05,UPI
+TXN000106,8/1/2025,CUST0198,East,Grocery,Olive Oil,3,699,0,2097,Net Banking
+TXN000123,8/1/2025,CUST0084,Central,Home & Kitchen,Nonstick Pan,3,999,0,2997,Debit Card
+TXN000467,8/1/2025,CUST0028,Central,Grocery,Coffee,2,349,5,663.1,Net Banking
+TXN000485,8/1/2025,CUST0041,East,Beauty,Face Wash,1,249,15,211.65,Debit Card
+TXN000658,8/1/2025,CUST0158,North,Clothing,Kurta,2,899,5,1708.1,Credit Card
+TXN000828,8/1/2025,CUST0052,South,Grocery,Tea,1,249,10,224.1,UPI
+TXN001021,8/1/2025,CUST0012,South,Clothing,Kurta,2,899,0,1798,Net Banking
+TXN001462,8/1/2025,CUST0005,East,Clothing,Kurta,1,899,10,809.1,UPI
+TXN000274,8/2/2025,CUST0185,South,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Cash
+TXN000736,8/2/2025,CUST0073,Central,Beauty,Shampoo,1,399,5,379.05,Cash
+TXN001278,8/2/2025,CUST0035,West,Clothing,Kurta,1,899,5,854.05,Net Banking
+TXN000738,8/3/2025,CUST0090,North,Home & Kitchen,Storage Box,1,499,5,474.05,Net Banking
+TXN000743,8/3/2025,CUST0084,North,Clothing,Jeans,2,1299,0,2598,Credit Card
+TXN001134,8/3/2025,CUST0124,South,Grocery,Coffee,1,349,0,349,Debit Card
+TXN000068,8/4/2025,CUST0193,East,Electronics,Power Bank,1,1499,5,1424.05,Credit Card
+TXN000959,8/4/2025,CUST0072,Central,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN000969,8/4/2025,CUST0091,North,Grocery,Oats,1,199,0,199,UPI
+TXN001464,8/4/2025,CUST0151,North,Clothing,Socks Pack,1,249,15,211.65,Debit Card
+TXN000002,8/5/2025,CUST0152,Central,Electronics,USB-C Cable,1,299,5,284.05,Credit Card
+TXN000004,8/5/2025,CUST0179,North,Home & Kitchen,Storage Box,4,499,0,1996,Cash
+TXN000039,8/5/2025,CUST0163,East,Electronics,Wireless Mouse,1,599,0,599,Credit Card
+TXN000318,8/5/2025,CUST0099,South,Grocery,Rice 5kg,2,499,5,948.1,Credit Card
+TXN001046,8/5/2025,CUST0049,Central,Beauty,Moisturizer,2,549,5,1043.1,Cash
+TXN001396,8/6/2025,CUST0027,North,Beauty,Shampoo,2,399,0,798,Credit Card
+TXN001413,8/6/2025,CUST0187,North,Grocery,Rice 5kg,1,499,0,499,Credit Card
+TXN000675,8/7/2025,CUST0023,West,Grocery,Tea,2,249,10,448.2,Net Banking
+TXN000715,8/7/2025,CUST0197,North,Clothing,Kurta,1,899,0,899,Cash
+TXN000777,8/7/2025,CUST0038,West,Clothing,Cotton T-Shirt,1,499,0,499,Net Banking
+TXN000827,8/7/2025,CUST0122,Central,Electronics,Bluetooth Speaker,1,1899,0,1899,Debit Card
+TXN000880,8/7/2025,CUST0134,North,Electronics,Headphones,1,1299,0,1299,Net Banking
+TXN001078,8/7/2025,CUST0097,South,Home & Kitchen,Water Bottle,1,399,20,319.2,UPI
+TXN001404,8/7/2025,CUST0073,East,Clothing,Kurta,2,899,0,1798,Net Banking
+TXN001436,8/7/2025,CUST0108,South,Grocery,Oats,2,199,0,398,Debit Card
+TXN000074,8/8/2025,CUST0137,West,Electronics,Headphones,2,1299,0,2598,Cash
+TXN000334,8/8/2025,CUST0001,East,Home & Kitchen,Mixer Grinder,1,2799,15,2379.15,UPI
+TXN000982,8/8/2025,CUST0154,East,Electronics,Headphones,2,1299,15,2208.3,Credit Card
+TXN001022,8/8/2025,CUST0102,West,Home & Kitchen,Water Bottle,1,399,0,399,Debit Card
+TXN001060,8/8/2025,CUST0090,South,Electronics,Power Bank,1,1499,0,1499,Net Banking
+TXN001197,8/8/2025,CUST0024,West,Clothing,Jeans,1,1299,15,1104.15,Cash
+TXN000142,8/9/2025,CUST0155,West,Electronics,Headphones,2,1299,0,2598,Credit Card
+TXN000156,8/9/2025,CUST0128,East,Beauty,Body Lotion,2,349,5,663.1,UPI
+TXN000195,8/9/2025,CUST0021,East,Home & Kitchen,Nonstick Pan,1,999,0,999,Debit Card
+TXN000075,8/10/2025,CUST0028,East,Beauty,Shampoo,1,399,10,359.1,Net Banking
+TXN000690,8/10/2025,CUST0061,West,Beauty,Moisturizer,2,549,0,1098,Net Banking
+TXN000965,8/10/2025,CUST0161,West,Electronics,Headphones,1,1299,10,1169.1,UPI
+TXN001290,8/10/2025,CUST0032,South,Electronics,USB-C Cable,1,299,10,269.1,Credit Card
+TXN001366,8/10/2025,CUST0114,North,Electronics,USB-C Cable,5,299,10,1345.5,Debit Card
+TXN000197,8/11/2025,CUST0158,Central,Electronics,Wireless Mouse,2,599,0,1198,Credit Card
+TXN001116,8/11/2025,CUST0192,West,Home & Kitchen,Water Bottle,1,399,0,399,Cash
+TXN000386,8/12/2025,CUST0188,Central,Beauty,Moisturizer,1,549,20,439.2,Debit Card
+TXN000693,8/12/2025,CUST0169,Central,Home & Kitchen,LED Desk Lamp,3,899,15,2292.45,Cash
+TXN000894,8/12/2025,CUST0179,Central,Clothing,Jeans,1,1299,0,1299,Credit Card
+TXN000454,8/13/2025,CUST0174,South,Beauty,Moisturizer,2,549,15,933.3,Cash
+TXN000589,8/13/2025,CUST0181,East,Grocery,Oats,1,199,0,199,Debit Card
+TXN000734,8/13/2025,CUST0043,Central,Grocery,Coffee,1,349,10,314.1,Cash
+TXN000963,8/13/2025,CUST0159,North,Beauty,Body Lotion,1,349,20,279.2,Cash
+TXN001136,8/13/2025,CUST0043,East,Beauty,Body Lotion,2,349,0,698,Credit Card
+TXN001307,8/13/2025,CUST0018,Central,Beauty,Face Wash,2,249,0,498,Debit Card
+TXN001358,8/13/2025,CUST0083,East,Grocery,Olive Oil,4,699,0,2796,Cash
+TXN001397,8/13/2025,CUST0051,Central,Electronics,Power Bank,1,1499,5,1424.05,Cash
+TXN000640,8/14/2025,CUST0075,Central,Clothing,Kurta,1,899,0,899,UPI
+TXN000769,8/14/2025,CUST0033,East,Home & Kitchen,Storage Box,2,499,0,998,Debit Card
+TXN001409,8/14/2025,CUST0131,South,Beauty,Moisturizer,1,549,10,494.1,Net Banking
+TXN000040,8/15/2025,CUST0190,South,Beauty,Body Lotion,1,349,0,349,Net Banking
+TXN000089,8/15/2025,CUST0116,Central,Grocery,Oats,1,199,5,189.05,UPI
+TXN000252,8/15/2025,CUST0134,West,Home & Kitchen,Nonstick Pan,1,999,15,849.15,UPI
+TXN000140,8/16/2025,CUST0183,East,Electronics,Bluetooth Speaker,2,1899,0,3798,Net Banking
+TXN000337,8/16/2025,CUST0175,South,Clothing,Cotton T-Shirt,5,499,0,2495,Cash
+TXN000460,8/16/2025,CUST0118,North,Beauty,Face Wash,3,249,0,747,Cash
+TXN000674,8/16/2025,CUST0139,West,Electronics,Power Bank,3,1499,0,4497,UPI
+TXN000196,8/17/2025,CUST0079,North,Beauty,Shampoo,2,399,0,798,Debit Card
+TXN000489,8/17/2025,CUST0131,North,Clothing,Jeans,1,1299,0,1299,Credit Card
+TXN000505,8/17/2025,CUST0119,Central,Clothing,Hoodie,2,1599,0,3198,UPI
+TXN000561,8/17/2025,CUST0125,South,Grocery,Olive Oil,1,699,20,559.2,Debit Card
+TXN000920,8/17/2025,CUST0055,West,Grocery,Oats,2,199,5,378.1,Debit Card
+TXN001062,8/17/2025,CUST0044,North,Grocery,Rice 5kg,1,499,0,499,UPI
+TXN001496,8/17/2025,CUST0015,South,Home & Kitchen,Storage Box,1,499,10,449.1,Credit Card
+TXN000256,8/18/2025,CUST0098,Central,Beauty,Sunscreen,1,499,20,399.2,Credit Card
+TXN000708,8/18/2025,CUST0074,Central,Clothing,Socks Pack,2,249,0,498,Debit Card
+TXN001349,8/18/2025,CUST0059,Central,Home & Kitchen,Nonstick Pan,3,999,20,2397.6,Credit Card
+TXN000181,8/19/2025,CUST0057,South,Electronics,Power Bank,1,1499,5,1424.05,Cash
+TXN000319,8/19/2025,CUST0081,West,Clothing,Cotton T-Shirt,1,499,0,499,Net Banking
+TXN000503,8/19/2025,CUST0125,East,Clothing,Socks Pack,1,249,5,236.55,Cash
+TXN000564,8/19/2025,CUST0134,East,Home & Kitchen,Water Bottle,1,399,0,399,UPI
+TXN000997,8/19/2025,CUST0113,East,Electronics,Bluetooth Speaker,1,1899,15,1614.15,UPI
+TXN001356,8/19/2025,CUST0162,South,Beauty,Moisturizer,2,549,10,988.2,Net Banking
+TXN000021,8/20/2025,CUST0133,South,Home & Kitchen,Water Bottle,1,399,5,379.05,Net Banking
+TXN000393,8/20/2025,CUST0042,North,Electronics,Bluetooth Speaker,1,1899,0,1899,UPI
+TXN001058,8/20/2025,CUST0095,East,Beauty,Body Lotion,1,349,0,349,UPI
+TXN000242,8/21/2025,CUST0073,Central,Grocery,Oats,3,199,0,597,Cash
+TXN000249,8/21/2025,CUST0040,Central,Clothing,Hoodie,2,1599,15,2718.3,Credit Card
+TXN000883,8/21/2025,CUST0151,South,Beauty,Body Lotion,3,349,0,1047,Credit Card
+TXN001193,8/21/2025,CUST0072,Central,Home & Kitchen,LED Desk Lamp,1,899,0,899,UPI
+TXN001209,8/21/2025,CUST0199,East,Electronics,USB-C Cable,3,299,20,717.6,Cash
+TXN000108,8/22/2025,CUST0097,West,Home & Kitchen,Storage Box,2,499,0,998,UPI
+TXN000980,8/22/2025,CUST0079,Central,Clothing,Jeans,4,1299,20,4156.8,Cash
+TXN001204,8/22/2025,CUST0167,East,Clothing,Kurta,3,899,0,2697,UPI
+TXN001497,8/22/2025,CUST0177,South,Grocery,Olive Oil,2,699,0,1398,UPI
+TXN000139,8/23/2025,CUST0078,North,Electronics,Power Bank,3,1499,0,4497,Cash
+TXN000322,8/23/2025,CUST0200,East,Beauty,Body Lotion,1,349,5,331.55,Net Banking
+TXN000331,8/23/2025,CUST0188,West,Clothing,Cotton T-Shirt,2,499,0,998,Credit Card
+TXN000600,8/23/2025,CUST0173,West,Beauty,Face Wash,1,249,0,249,Net Banking
+TXN000907,8/23/2025,CUST0105,Central,Clothing,Cotton T-Shirt,1,499,10,449.1,UPI
+TXN001200,8/23/2025,CUST0039,East,Clothing,Cotton T-Shirt,2,499,10,898.2,Net Banking
+TXN001205,8/23/2025,CUST0046,West,Home & Kitchen,Nonstick Pan,2,999,5,1898.1,Debit Card
+TXN001293,8/23/2025,CUST0073,Central,Beauty,Face Wash,2,249,0,498,Cash
+TXN000606,8/24/2025,CUST0010,South,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Debit Card
+TXN001296,8/24/2025,CUST0087,West,Home & Kitchen,Mixer Grinder,2,2799,10,5038.2,UPI
+TXN000662,8/25/2025,CUST0086,East,Beauty,Face Wash,3,249,0,747,Net Banking
+TXN000710,8/25/2025,CUST0101,South,Home & Kitchen,Nonstick Pan,2,999,5,1898.1,Debit Card
+TXN000749,8/25/2025,CUST0122,South,Beauty,Shampoo,1,399,0,399,Net Banking
+TXN000781,8/25/2025,CUST0143,Central,Home & Kitchen,Storage Box,1,499,0,499,Cash
+TXN000996,8/25/2025,CUST0185,West,Electronics,Bluetooth Speaker,3,1899,0,5697,Credit Card
+TXN001013,8/25/2025,CUST0012,South,Beauty,Sunscreen,1,499,0,499,Cash
+TXN001238,8/25/2025,CUST0002,North,Beauty,Face Wash,3,249,15,634.95,Debit Card
+TXN001081,8/26/2025,CUST0200,North,Beauty,Moisturizer,2,549,0,1098,UPI
+TXN000358,8/27/2025,CUST0018,East,Clothing,Kurta,1,899,5,854.05,Credit Card
+TXN000622,8/27/2025,CUST0014,East,Electronics,Power Bank,2,1499,10,2698.2,UPI
+TXN000025,8/28/2025,CUST0106,North,Electronics,Wireless Mouse,1,599,10,539.1,Credit Card
+TXN000590,8/28/2025,CUST0188,West,Grocery,Tea,1,249,5,236.55,Debit Card
+TXN000861,8/28/2025,CUST0087,East,Clothing,Socks Pack,1,249,0,249,UPI
+TXN001191,8/28/2025,CUST0120,West,Beauty,Face Wash,1,249,10,224.1,Cash
+TXN000572,8/29/2025,CUST0074,East,Beauty,Sunscreen,1,499,10,449.1,Net Banking
+TXN000797,8/29/2025,CUST0016,North,Clothing,Cotton T-Shirt,1,499,10,449.1,UPI
+TXN000857,8/29/2025,CUST0003,West,Clothing,Hoodie,2,1599,10,2878.2,Net Banking
+TXN001370,8/29/2025,CUST0068,North,Home & Kitchen,LED Desk Lamp,1,899,0,899,Net Banking
+TXN000238,8/30/2025,CUST0184,South,Home & Kitchen,Water Bottle,4,399,20,1276.8,Cash
+TXN000698,8/30/2025,CUST0063,North,Electronics,Headphones,2,1299,0,2598,Debit Card
+TXN001346,8/30/2025,CUST0156,Central,Grocery,Oats,1,199,0,199,Debit Card
+TXN000053,8/31/2025,CUST0131,Central,Home & Kitchen,Water Bottle,1,399,10,359.1,Debit Card
+TXN000109,8/31/2025,CUST0082,South,Beauty,Sunscreen,5,499,10,2245.5,Cash
+TXN000962,8/31/2025,CUST0028,North,Electronics,Bluetooth Speaker,1,1899,0,1899,Net Banking
+TXN001132,8/31/2025,CUST0186,Central,Grocery,Rice 5kg,1,499,0,499,Debit Card
+TXN001401,8/31/2025,CUST0135,North,Beauty,Shampoo,1,399,0,399,Debit Card
+TXN001450,8/31/2025,CUST0096,West,Grocery,Olive Oil,1,699,0,699,Net Banking
+TXN000239,9/1/2025,CUST0168,North,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Net Banking
+TXN000524,9/1/2025,CUST0046,West,Electronics,Headphones,1,1299,0,1299,Credit Card
+TXN000948,9/1/2025,CUST0156,West,Electronics,USB-C Cable,1,299,15,254.15,Cash
+TXN001001,9/1/2025,CUST0049,South,Grocery,Oats,2,199,0,398,UPI
+TXN001253,9/1/2025,CUST0008,North,Beauty,Moisturizer,1,549,15,466.65,Debit Card
+TXN001043,9/2/2025,CUST0063,East,Clothing,Cotton T-Shirt,2,499,5,948.1,Net Banking
+TXN001159,9/2/2025,CUST0115,South,Electronics,Headphones,1,1299,10,1169.1,UPI
+TXN000206,9/3/2025,CUST0184,North,Beauty,Body Lotion,1,349,20,279.2,Cash
+TXN000793,9/3/2025,CUST0005,Central,Clothing,Jeans,3,1299,15,3312.45,Net Banking
+TXN000961,9/3/2025,CUST0008,East,Electronics,Headphones,2,1299,15,2208.3,Credit Card
+TXN000526,9/4/2025,CUST0059,Central,Beauty,Moisturizer,2,549,10,988.2,UPI
+TXN001039,9/4/2025,CUST0156,North,Home & Kitchen,LED Desk Lamp,1,899,15,764.15,UPI
+TXN000076,9/5/2025,CUST0138,North,Grocery,Olive Oil,1,699,0,699,Debit Card
+TXN000083,9/5/2025,CUST0056,South,Grocery,Tea,2,249,20,398.4,Debit Card
+TXN000214,9/5/2025,CUST0107,East,Clothing,Socks Pack,1,249,15,211.65,Debit Card
+TXN000395,9/5/2025,CUST0158,North,Beauty,Shampoo,2,399,0,798,UPI
+TXN000796,9/5/2025,CUST0005,Central,Electronics,USB-C Cable,1,299,10,269.1,Net Banking
+TXN001177,9/5/2025,CUST0145,East,Clothing,Cotton T-Shirt,4,499,0,1996,Debit Card
+TXN001224,9/5/2025,CUST0089,North,Grocery,Coffee,1,349,10,314.1,Credit Card
+TXN001247,9/5/2025,CUST0198,South,Clothing,Kurta,2,899,0,1798,Credit Card
+TXN001289,9/5/2025,CUST0104,West,Home & Kitchen,Nonstick Pan,1,999,5,949.05,Net Banking
+TXN001297,9/5/2025,CUST0166,Central,Grocery,Rice 5kg,2,499,15,848.3,Debit Card
+TXN001435,9/5/2025,CUST0087,Central,Clothing,Cotton T-Shirt,4,499,15,1696.6,UPI
+TXN000028,9/6/2025,CUST0105,West,Beauty,Face Wash,1,249,0,249,Debit Card
+TXN000102,9/6/2025,CUST0179,North,Grocery,Rice 5kg,2,499,0,998,Net Banking
+TXN000410,9/6/2025,CUST0168,Central,Beauty,Face Wash,1,249,0,249,Net Banking
+TXN000078,9/7/2025,CUST0047,East,Clothing,Kurta,1,899,5,854.05,Net Banking
+TXN000279,9/7/2025,CUST0169,East,Grocery,Tea,1,249,0,249,Net Banking
+TXN000679,9/7/2025,CUST0117,South,Beauty,Face Wash,1,249,5,236.55,Debit Card
+TXN001114,9/7/2025,CUST0032,East,Clothing,Jeans,1,1299,0,1299,Cash
+TXN001362,9/7/2025,CUST0071,Central,Home & Kitchen,Mixer Grinder,4,2799,0,11196,UPI
+TXN000418,9/8/2025,CUST0096,South,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Debit Card
+TXN000595,9/8/2025,CUST0169,North,Grocery,Olive Oil,1,699,0,699,UPI
+TXN000876,9/8/2025,CUST0052,North,Beauty,Sunscreen,1,499,5,474.05,Cash
+TXN001098,9/8/2025,CUST0151,Central,Clothing,Socks Pack,3,249,5,709.65,UPI
+TXN000202,9/9/2025,CUST0178,West,Home & Kitchen,Water Bottle,1,399,15,339.15,UPI
+TXN000840,9/9/2025,CUST0015,South,Electronics,Bluetooth Speaker,1,1899,5,1804.05,Debit Card
+TXN000875,9/9/2025,CUST0077,East,Clothing,Socks Pack,1,249,10,224.1,Net Banking
+TXN001469,9/9/2025,CUST0143,North,Grocery,Rice 5kg,1,499,15,424.15,UPI
+TXN000095,9/10/2025,CUST0139,Central,Grocery,Coffee,3,349,10,942.3,Debit Card
+TXN000549,9/10/2025,CUST0081,Central,Clothing,Hoodie,1,1599,10,1439.1,Debit Card
+TXN000804,9/10/2025,CUST0084,West,Clothing,Hoodie,2,1599,0,3198,Credit Card
+TXN001221,9/11/2025,CUST0020,West,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,UPI
+TXN000011,9/13/2025,CUST0168,Central,Beauty,Shampoo,1,399,0,399,Net Banking
+TXN000101,9/13/2025,CUST0160,East,Electronics,USB-C Cable,1,299,0,299,Cash
+TXN000468,9/13/2025,CUST0035,West,Electronics,Headphones,4,1299,10,4676.4,Net Banking
+TXN000862,9/13/2025,CUST0033,East,Clothing,Kurta,4,899,0,3596,Net Banking
+TXN000869,9/13/2025,CUST0197,North,Clothing,Cotton T-Shirt,1,499,20,399.2,Cash
+TXN000921,9/13/2025,CUST0150,South,Beauty,Sunscreen,2,499,0,998,Credit Card
+TXN001445,9/13/2025,CUST0036,South,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Cash
+TXN001494,9/13/2025,CUST0092,East,Electronics,Headphones,3,1299,10,3507.3,UPI
+TXN000509,9/14/2025,CUST0119,Central,Beauty,Moisturizer,1,549,10,494.1,Credit Card
+TXN001178,9/14/2025,CUST0102,North,Beauty,Moisturizer,4,549,10,1976.4,Debit Card
+TXN001421,9/14/2025,CUST0195,Central,Clothing,Cotton T-Shirt,1,499,0,499,Credit Card
+TXN000438,9/15/2025,CUST0099,East,Home & Kitchen,Water Bottle,3,399,0,1197,Cash
+TXN001179,9/15/2025,CUST0105,Central,Home & Kitchen,Water Bottle,2,399,0,798,UPI
+TXN001260,9/15/2025,CUST0048,South,Beauty,Moisturizer,3,549,10,1482.3,Debit Card
+TXN001475,9/15/2025,CUST0159,South,Grocery,Oats,4,199,0,796,Credit Card
+TXN000801,9/16/2025,CUST0055,North,Beauty,Moisturizer,2,549,0,1098,Credit Card
+TXN000946,9/16/2025,CUST0157,East,Clothing,Kurta,4,899,10,3236.4,Credit Card
+TXN001061,9/16/2025,CUST0147,Central,Beauty,Face Wash,1,249,10,224.1,Cash
+TXN001422,9/16/2025,CUST0177,East,Electronics,Bluetooth Speaker,1,1899,0,1899,Cash
+TXN000147,9/17/2025,CUST0148,Central,Beauty,Shampoo,3,399,0,1197,Debit Card
+TXN000188,9/17/2025,CUST0130,East,Beauty,Sunscreen,1,499,0,499,Debit Card
+TXN000667,9/17/2025,CUST0114,West,Beauty,Body Lotion,1,349,0,349,Net Banking
+TXN000817,9/17/2025,CUST0041,East,Clothing,Hoodie,2,1599,0,3198,Debit Card
+TXN000972,9/17/2025,CUST0061,South,Grocery,Coffee,1,349,0,349,Credit Card
+TXN000031,9/18/2025,CUST0015,South,Home & Kitchen,Water Bottle,2,399,10,718.2,Cash
+TXN000204,9/18/2025,CUST0093,East,Home & Kitchen,Storage Box,1,499,5,474.05,Net Banking
+TXN000355,9/18/2025,CUST0190,South,Electronics,USB-C Cable,1,299,0,299,Credit Card
+TXN000048,9/19/2025,CUST0156,North,Grocery,Rice 5kg,1,499,10,449.1,Net Banking
+TXN000522,9/19/2025,CUST0169,West,Clothing,Hoodie,2,1599,0,3198,Cash
+TXN001027,9/19/2025,CUST0098,South,Home & Kitchen,Nonstick Pan,2,999,20,1598.4,UPI
+TXN001483,9/19/2025,CUST0103,East,Beauty,Sunscreen,2,499,0,998,Net Banking
+TXN000272,9/20/2025,CUST0093,South,Electronics,Power Bank,2,1499,0,2998,Debit Card
+TXN000519,9/20/2025,CUST0162,South,Grocery,Rice 5kg,1,499,0,499,Net Banking
+TXN000786,9/20/2025,CUST0096,East,Electronics,Bluetooth Speaker,1,1899,0,1899,Cash
+TXN000991,9/20/2025,CUST0129,North,Electronics,Bluetooth Speaker,4,1899,0,7596,Debit Card
+TXN001458,9/20/2025,CUST0098,East,Clothing,Kurta,1,899,0,899,UPI
+TXN000510,9/21/2025,CUST0194,South,Home & Kitchen,Storage Box,2,499,5,948.1,Cash
+TXN001079,9/21/2025,CUST0031,West,Grocery,Oats,4,199,5,756.2,Credit Card
+TXN001452,9/21/2025,CUST0051,North,Beauty,Sunscreen,1,499,0,499,Cash
+TXN000079,9/22/2025,CUST0003,West,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,Cash
+TXN000641,9/22/2025,CUST0177,Central,Beauty,Face Wash,2,249,0,498,Net Banking
+TXN000343,9/23/2025,CUST0053,South,Home & Kitchen,LED Desk Lamp,1,899,0,899,Cash
+TXN000598,9/23/2025,CUST0056,South,Home & Kitchen,Nonstick Pan,1,999,0,999,Net Banking
+TXN000958,9/23/2025,CUST0175,South,Clothing,Socks Pack,2,249,15,423.3,UPI
+TXN000985,9/23/2025,CUST0128,West,Clothing,Kurta,1,899,5,854.05,Cash
+TXN000439,9/24/2025,CUST0187,East,Clothing,Hoodie,3,1599,20,3837.6,Cash
+TXN000408,9/25/2025,CUST0151,Central,Electronics,Power Bank,1,1499,5,1424.05,UPI
+TXN000669,9/25/2025,CUST0100,North,Clothing,Cotton T-Shirt,2,499,5,948.1,Debit Card
+TXN001172,9/25/2025,CUST0024,South,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Net Banking
+TXN001498,9/25/2025,CUST0034,West,Home & Kitchen,Storage Box,1,499,10,449.1,Cash
+TXN000168,9/26/2025,CUST0113,West,Home & Kitchen,Mixer Grinder,1,2799,0,2799,Debit Card
+TXN000638,9/26/2025,CUST0138,North,Electronics,Headphones,1,1299,5,1234.05,Credit Card
+TXN001264,9/26/2025,CUST0059,East,Home & Kitchen,Water Bottle,1,399,10,359.1,Cash
+TXN001457,9/26/2025,CUST0188,Central,Electronics,Wireless Mouse,1,599,0,599,UPI
+TXN000697,9/27/2025,CUST0187,Central,Clothing,Hoodie,1,1599,5,1519.05,UPI
+TXN000760,9/27/2025,CUST0129,East,Beauty,Body Lotion,2,349,5,663.1,Cash
+TXN000792,9/27/2025,CUST0177,North,Grocery,Coffee,1,349,15,296.65,Credit Card
+TXN000704,9/28/2025,CUST0047,South,Clothing,Cotton T-Shirt,4,499,5,1896.2,Cash
+TXN000151,9/29/2025,CUST0192,East,Beauty,Sunscreen,1,499,0,499,Net Banking
+TXN000200,9/29/2025,CUST0036,South,Clothing,Kurta,1,899,0,899,Cash
+TXN000362,9/29/2025,CUST0053,East,Beauty,Face Wash,4,249,0,996,UPI
+TXN000379,9/29/2025,CUST0121,South,Grocery,Rice 5kg,4,499,0,1996,Debit Card
+TXN000625,9/29/2025,CUST0064,East,Beauty,Sunscreen,2,499,0,998,Debit Card
+TXN000751,9/29/2025,CUST0109,North,Electronics,Power Bank,1,1499,0,1499,Cash
+TXN000226,9/30/2025,CUST0131,East,Grocery,Olive Oil,1,699,0,699,UPI
+TXN000707,9/30/2025,CUST0192,West,Beauty,Sunscreen,1,499,5,474.05,UPI
+TXN000830,9/30/2025,CUST0164,South,Beauty,Body Lotion,2,349,0,698,Debit Card
+TXN000210,10/1/2025,CUST0158,Central,Home & Kitchen,Nonstick Pan,4,999,0,3996,Net Banking
+TXN000240,10/1/2025,CUST0060,North,Electronics,USB-C Cable,1,299,10,269.1,Cash
+TXN000304,10/1/2025,CUST0103,Central,Beauty,Body Lotion,1,349,20,279.2,Net Banking
+TXN000436,10/1/2025,CUST0010,Central,Clothing,Cotton T-Shirt,3,499,10,1347.3,Credit Card
+TXN000726,10/1/2025,CUST0128,North,Beauty,Face Wash,1,249,0,249,Cash
+TXN001389,10/1/2025,CUST0180,East,Beauty,Face Wash,5,249,10,1120.5,Net Banking
+TXN001443,10/1/2025,CUST0101,South,Beauty,Body Lotion,1,349,15,296.65,Credit Card
+TXN000015,10/2/2025,CUST0175,North,Clothing,Cotton T-Shirt,1,499,0,499,Debit Card
+TXN000268,10/2/2025,CUST0024,Central,Home & Kitchen,Water Bottle,1,399,10,359.1,UPI
+TXN000314,10/2/2025,CUST0027,West,Clothing,Jeans,1,1299,0,1299,Net Banking
+TXN000403,10/2/2025,CUST0108,North,Beauty,Body Lotion,3,349,5,994.65,Cash
+TXN001085,10/2/2025,CUST0143,Central,Grocery,Oats,1,199,10,179.1,UPI
+TXN001115,10/2/2025,CUST0047,South,Electronics,Power Bank,2,1499,0,2998,Debit Card
+TXN001162,10/2/2025,CUST0137,Central,Beauty,Face Wash,2,249,0,498,Credit Card
+TXN001319,10/2/2025,CUST0192,South,Electronics,USB-C Cable,3,299,0,897,Cash
+TXN001472,10/2/2025,CUST0129,West,Home & Kitchen,LED Desk Lamp,1,899,5,854.05,Credit Card
+TXN001499,10/2/2025,CUST0026,North,Clothing,Cotton T-Shirt,1,499,0,499,Cash
+TXN000236,10/3/2025,CUST0052,Central,Grocery,Olive Oil,1,699,5,664.05,Credit Card
+TXN000490,10/3/2025,CUST0198,West,Electronics,USB-C Cable,2,299,10,538.2,UPI
+TXN000491,10/3/2025,CUST0053,West,Beauty,Face Wash,2,249,0,498,Debit Card
+TXN000639,10/3/2025,CUST0133,North,Electronics,Headphones,1,1299,10,1169.1,Credit Card
+TXN000888,10/3/2025,CUST0161,North,Clothing,Hoodie,1,1599,0,1599,Credit Card
+TXN000942,10/3/2025,CUST0063,Central,Grocery,Oats,1,199,10,179.1,Debit Card
+TXN001143,10/3/2025,CUST0005,East,Grocery,Coffee,2,349,10,628.2,Net Banking
+TXN000020,10/4/2025,CUST0055,East,Home & Kitchen,Mixer Grinder,1,2799,10,2519.1,Cash
+TXN000525,10/4/2025,CUST0155,Central,Beauty,Body Lotion,1,349,15,296.65,Cash
+TXN000739,10/4/2025,CUST0093,South,Beauty,Shampoo,1,399,0,399,Cash
+TXN000758,10/4/2025,CUST0062,South,Beauty,Body Lotion,3,349,10,942.3,Debit Card
+TXN000914,10/4/2025,CUST0008,North,Home & Kitchen,Mixer Grinder,2,2799,20,4478.4,UPI
+TXN001380,10/4/2025,CUST0155,East,Electronics,Power Bank,1,1499,10,1349.1,Net Banking
+TXN000030,10/5/2025,CUST0189,Central,Clothing,Cotton T-Shirt,1,499,5,474.05,Credit Card
+TXN000323,10/5/2025,CUST0094,North,Electronics,Power Bank,1,1499,20,1199.2,Credit Card
+TXN000473,10/5/2025,CUST0129,Central,Clothing,Cotton T-Shirt,2,499,5,948.1,Net Banking
+TXN000591,10/5/2025,CUST0068,North,Electronics,Headphones,1,1299,0,1299,Net Banking
+TXN001332,10/5/2025,CUST0064,East,Grocery,Oats,1,199,0,199,Debit Card
+TXN001386,10/5/2025,CUST0004,South,Home & Kitchen,Water Bottle,2,399,10,718.2,Net Banking
+TXN000377,10/6/2025,CUST0162,East,Beauty,Moisturizer,1,549,10,494.1,Net Banking
+TXN000064,10/7/2025,CUST0192,North,Home & Kitchen,LED Desk Lamp,1,899,0,899,Cash
+TXN000232,10/7/2025,CUST0088,East,Clothing,Socks Pack,1,249,20,199.2,Net Banking
+TXN000360,10/7/2025,CUST0188,South,Home & Kitchen,Storage Box,1,499,0,499,Net Banking
+TXN000992,10/7/2025,CUST0010,East,Home & Kitchen,Mixer Grinder,1,2799,10,2519.1,Credit Card
+TXN001395,10/7/2025,CUST0126,Central,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,UPI
+TXN000553,10/8/2025,CUST0048,South,Clothing,Hoodie,4,1599,0,6396,Cash
+TXN000649,10/8/2025,CUST0063,East,Grocery,Rice 5kg,1,499,0,499,UPI
+TXN000682,10/8/2025,CUST0063,Central,Beauty,Face Wash,1,249,10,224.1,Cash
+TXN001015,10/8/2025,CUST0022,South,Beauty,Shampoo,1,399,0,399,Credit Card
+TXN001312,10/8/2025,CUST0053,Central,Clothing,Cotton T-Shirt,1,499,0,499,Net Banking
+TXN001398,10/8/2025,CUST0036,East,Electronics,Bluetooth Speaker,1,1899,20,1519.2,Net Banking
+TXN000222,10/9/2025,CUST0116,West,Grocery,Tea,1,249,20,199.2,Debit Card
+TXN000370,10/9/2025,CUST0192,North,Beauty,Face Wash,3,249,0,747,UPI
+TXN000501,10/9/2025,CUST0166,West,Electronics,Bluetooth Speaker,1,1899,10,1709.1,Debit Card
+TXN000603,10/9/2025,CUST0197,North,Clothing,Hoodie,1,1599,0,1599,Debit Card
+TXN001118,10/9/2025,CUST0126,West,Home & Kitchen,Mixer Grinder,2,2799,10,5038.2,Net Banking
+TXN000271,10/10/2025,CUST0062,East,Clothing,Hoodie,1,1599,5,1519.05,Debit Card
+TXN000081,10/11/2025,CUST0122,East,Beauty,Body Lotion,1,349,10,314.1,Debit Card
+TXN000356,10/11/2025,CUST0010,East,Beauty,Shampoo,1,399,0,399,Debit Card
+TXN000748,10/11/2025,CUST0148,South,Electronics,Power Bank,3,1499,5,4272.15,Net Banking
+TXN000893,10/11/2025,CUST0081,East,Beauty,Sunscreen,1,499,5,474.05,Cash
+TXN000940,10/11/2025,CUST0069,South,Electronics,USB-C Cable,2,299,10,538.2,Debit Card
+TXN001002,10/11/2025,CUST0173,West,Grocery,Oats,1,199,0,199,Debit Card
+TXN001038,10/11/2025,CUST0040,West,Clothing,Hoodie,1,1599,5,1519.05,Net Banking
+TXN001330,10/11/2025,CUST0028,Central,Clothing,Socks Pack,1,249,5,236.55,Net Banking
+TXN000407,10/12/2025,CUST0100,North,Clothing,Kurta,1,899,15,764.15,Net Banking
+TXN000482,10/12/2025,CUST0072,West,Home & Kitchen,Nonstick Pan,3,999,0,2997,Credit Card
+TXN001213,10/12/2025,CUST0062,Central,Grocery,Oats,3,199,10,537.3,Cash
+TXN001240,10/12/2025,CUST0021,West,Beauty,Body Lotion,1,349,0,349,Cash
+TXN001440,10/12/2025,CUST0176,West,Clothing,Cotton T-Shirt,1,499,0,499,Net Banking
+TXN000057,10/13/2025,CUST0013,Central,Electronics,Power Bank,1,1499,5,1424.05,Net Banking
+TXN000088,10/13/2025,CUST0031,Central,Grocery,Tea,2,249,0,498,Cash
+TXN000223,10/13/2025,CUST0087,North,Home & Kitchen,Storage Box,2,499,0,998,UPI
+TXN001369,10/13/2025,CUST0049,South,Electronics,Wireless Mouse,1,599,5,569.05,Credit Card
+TXN000429,10/14/2025,CUST0186,South,Home & Kitchen,Mixer Grinder,2,2799,0,5598,Debit Card
+TXN001133,10/14/2025,CUST0195,West,Clothing,Hoodie,2,1599,0,3198,UPI
+TXN000211,10/16/2025,CUST0087,Central,Electronics,Wireless Mouse,1,599,5,569.05,Debit Card
+TXN000301,10/16/2025,CUST0030,West,Grocery,Rice 5kg,2,499,5,948.1,Credit Card
+TXN000359,10/16/2025,CUST0075,West,Grocery,Rice 5kg,1,499,5,474.05,Credit Card
+TXN000382,10/16/2025,CUST0037,North,Beauty,Body Lotion,1,349,5,331.55,UPI
+TXN000409,10/16/2025,CUST0028,East,Clothing,Socks Pack,3,249,15,634.95,Cash
+TXN001406,10/16/2025,CUST0068,Central,Grocery,Tea,2,249,0,498,Net Banking
+TXN000389,10/17/2025,CUST0164,East,Beauty,Shampoo,1,399,0,399,Debit Card
+TXN000456,10/17/2025,CUST0186,North,Clothing,Socks Pack,1,249,10,224.1,Cash
+TXN000530,10/17/2025,CUST0109,Central,Clothing,Hoodie,2,1599,0,3198,Cash
+TXN001135,10/17/2025,CUST0012,Central,Home & Kitchen,LED Desk Lamp,1,899,5,854.05,UPI
+TXN001345,10/17/2025,CUST0058,Central,Grocery,Oats,1,199,0,199,UPI
+TXN000199,10/18/2025,CUST0099,North,Home & Kitchen,LED Desk Lamp,4,899,0,3596,Net Banking
+TXN000285,10/18/2025,CUST0178,Central,Electronics,Wireless Mouse,2,599,0,1198,Net Banking
+TXN000683,10/18/2025,CUST0112,Central,Grocery,Rice 5kg,1,499,10,449.1,Cash
+TXN001234,10/18/2025,CUST0120,South,Home & Kitchen,Nonstick Pan,1,999,0,999,Net Banking
+TXN001393,10/18/2025,CUST0186,East,Electronics,Power Bank,1,1499,0,1499,Credit Card
+TXN000032,10/19/2025,CUST0031,Central,Grocery,Coffee,2,349,0,698,Net Banking
+TXN000094,10/19/2025,CUST0192,East,Electronics,Power Bank,2,1499,10,2698.2,Net Banking
+TXN000326,10/19/2025,CUST0016,East,Clothing,Socks Pack,1,249,0,249,Debit Card
+TXN000872,10/19/2025,CUST0188,North,Electronics,Bluetooth Speaker,1,1899,0,1899,Net Banking
+TXN000954,10/19/2025,CUST0072,Central,Home & Kitchen,Nonstick Pan,1,999,10,899.1,Net Banking
+TXN001190,10/19/2025,CUST0041,North,Electronics,USB-C Cable,1,299,5,284.05,Debit Card
+TXN000295,10/20/2025,CUST0063,West,Beauty,Shampoo,1,399,0,399,Credit Card
+TXN000357,10/20/2025,CUST0020,North,Grocery,Coffee,1,349,10,314.1,Cash
+TXN000837,10/20/2025,CUST0029,Central,Electronics,Headphones,2,1299,5,2468.1,Debit Card
+TXN001365,10/20/2025,CUST0073,North,Beauty,Body Lotion,1,349,5,331.55,UPI
+TXN000498,10/21/2025,CUST0002,East,Grocery,Tea,4,249,0,996,Credit Card
+TXN000546,10/21/2025,CUST0056,South,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Debit Card
+TXN000750,10/21/2025,CUST0039,Central,Electronics,Wireless Mouse,5,599,10,2695.5,UPI
+TXN000823,10/21/2025,CUST0083,West,Beauty,Face Wash,2,249,0,498,Net Banking
+TXN000916,10/21/2025,CUST0077,Central,Beauty,Moisturizer,5,549,10,2470.5,Net Banking
+TXN000927,10/21/2025,CUST0124,Central,Beauty,Moisturizer,2,549,5,1043.1,Credit Card
+TXN001379,10/21/2025,CUST0057,East,Home & Kitchen,Water Bottle,4,399,5,1516.2,Credit Card
+TXN000063,10/22/2025,CUST0196,West,Electronics,Bluetooth Speaker,1,1899,0,1899,Net Banking
+TXN000555,10/22/2025,CUST0034,West,Electronics,Bluetooth Speaker,3,1899,5,5412.15,Credit Card
+TXN000560,10/22/2025,CUST0148,East,Grocery,Rice 5kg,4,499,0,1996,Net Banking
+TXN001008,10/22/2025,CUST0119,East,Electronics,Bluetooth Speaker,2,1899,15,3228.3,Debit Card
+TXN001434,10/22/2025,CUST0152,East,Beauty,Sunscreen,3,499,0,1497,Net Banking
+TXN000687,10/23/2025,CUST0158,East,Home & Kitchen,Mixer Grinder,1,2799,10,2519.1,Cash
+TXN001203,10/23/2025,CUST0174,North,Clothing,Cotton T-Shirt,1,499,0,499,Cash
+TXN000507,10/24/2025,CUST0149,Central,Grocery,Rice 5kg,3,499,5,1422.15,Net Banking
+TXN000728,10/24/2025,CUST0190,North,Electronics,Wireless Mouse,2,599,5,1138.1,Cash
+TXN000765,10/24/2025,CUST0106,Central,Clothing,Hoodie,2,1599,10,2878.2,Cash
+TXN000790,10/24/2025,CUST0137,West,Home & Kitchen,Water Bottle,1,399,0,399,Cash
+TXN000891,10/24/2025,CUST0189,Central,Grocery,Olive Oil,1,699,0,699,Net Banking
+TXN000994,10/24/2025,CUST0104,South,Electronics,Power Bank,2,1499,20,2398.4,Cash
+TXN000809,10/25/2025,CUST0196,West,Beauty,Moisturizer,1,549,5,521.55,Cash
+TXN000986,10/25/2025,CUST0069,West,Grocery,Coffee,1,349,15,296.65,Credit Card
+TXN001167,10/25/2025,CUST0170,North,Grocery,Rice 5kg,1,499,0,499,Credit Card
+TXN000227,10/26/2025,CUST0107,Central,Electronics,Headphones,1,1299,20,1039.2,Net Banking
+TXN000621,10/26/2025,CUST0097,Central,Electronics,Bluetooth Speaker,1,1899,0,1899,Debit Card
+TXN000753,10/26/2025,CUST0147,East,Beauty,Shampoo,3,399,0,1197,Cash
+TXN001263,10/26/2025,CUST0122,Central,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,Debit Card
+TXN000012,10/27/2025,CUST0068,South,Grocery,Oats,1,199,20,159.2,Net Banking
+TXN000141,10/27/2025,CUST0163,West,Clothing,Hoodie,5,1599,5,7595.25,Net Banking
+TXN000366,10/27/2025,CUST0035,North,Electronics,USB-C Cable,1,299,0,299,Net Banking
+TXN000423,10/27/2025,CUST0102,East,Grocery,Olive Oil,2,699,5,1328.1,Debit Card
+TXN000585,10/27/2025,CUST0071,West,Home & Kitchen,Water Bottle,4,399,5,1516.2,Net Banking
+TXN000868,10/27/2025,CUST0170,North,Electronics,Headphones,2,1299,0,2598,Credit Card
+TXN001285,10/27/2025,CUST0190,West,Electronics,USB-C Cable,1,299,5,284.05,Credit Card
+TXN000346,10/28/2025,CUST0005,West,Clothing,Jeans,1,1299,0,1299,Net Banking
+TXN000779,10/28/2025,CUST0036,Central,Home & Kitchen,Storage Box,1,499,20,399.2,Debit Card
+TXN000325,10/29/2025,CUST0189,South,Grocery,Oats,1,199,0,199,Credit Card
+TXN001041,10/29/2025,CUST0165,South,Electronics,Wireless Mouse,1,599,5,569.05,Cash
+TXN001326,10/29/2025,CUST0072,West,Electronics,Wireless Mouse,1,599,5,569.05,UPI
+TXN000703,10/30/2025,CUST0045,South,Beauty,Moisturizer,3,549,0,1647,Cash
+TXN000780,10/30/2025,CUST0017,West,Electronics,Wireless Mouse,1,599,15,509.15,Credit Card
+TXN000870,10/30/2025,CUST0096,West,Clothing,Jeans,1,1299,5,1234.05,Cash
+TXN001068,10/30/2025,CUST0016,South,Beauty,Sunscreen,1,499,0,499,Net Banking
+TXN001329,10/30/2025,CUST0193,West,Electronics,Bluetooth Speaker,2,1899,5,3608.1,UPI
+TXN001424,10/30/2025,CUST0082,North,Home & Kitchen,Water Bottle,1,399,0,399,Credit Card
+TXN000381,10/31/2025,CUST0061,Central,Clothing,Socks Pack,1,249,10,224.1,Net Banking
+TXN000684,10/31/2025,CUST0030,East,Clothing,Socks Pack,1,249,0,249,Cash
+TXN000850,10/31/2025,CUST0176,West,Clothing,Jeans,1,1299,0,1299,Cash
+TXN000612,11/1/2025,CUST0193,South,Electronics,USB-C Cable,1,299,10,269.1,Credit Card
+TXN000968,11/1/2025,CUST0004,Central,Grocery,Rice 5kg,3,499,0,1497,Debit Card
+TXN001284,11/1/2025,CUST0086,North,Clothing,Socks Pack,1,249,0,249,UPI
+TXN000624,11/2/2025,CUST0125,North,Home & Kitchen,Storage Box,1,499,5,474.05,UPI
+TXN000169,11/3/2025,CUST0174,West,Clothing,Cotton T-Shirt,1,499,5,474.05,Debit Card
+TXN000520,11/3/2025,CUST0104,Central,Electronics,Bluetooth Speaker,4,1899,0,7596,Cash
+TXN000685,11/3/2025,CUST0018,North,Grocery,Oats,1,199,5,189.05,UPI
+TXN000859,11/3/2025,CUST0172,East,Electronics,Wireless Mouse,1,599,5,569.05,Cash
+TXN000534,11/4/2025,CUST0121,North,Electronics,Bluetooth Speaker,1,1899,0,1899,Cash
+TXN000855,11/4/2025,CUST0053,South,Clothing,Jeans,1,1299,0,1299,UPI
+TXN001065,11/4/2025,CUST0197,West,Clothing,Hoodie,3,1599,10,4317.3,Net Banking
+TXN000383,11/5/2025,CUST0060,South,Grocery,Oats,1,199,15,169.15,Credit Card
+TXN001000,11/5/2025,CUST0162,Central,Beauty,Sunscreen,1,499,0,499,Cash
+TXN001069,11/5/2025,CUST0170,East,Electronics,Power Bank,1,1499,15,1274.15,Credit Card
+TXN000634,11/6/2025,CUST0129,South,Clothing,Jeans,3,1299,5,3702.15,Credit Card
+TXN000695,11/6/2025,CUST0109,Central,Beauty,Shampoo,2,399,0,798,Net Banking
+TXN000993,11/6/2025,CUST0181,East,Grocery,Olive Oil,1,699,0,699,Cash
+TXN001400,11/6/2025,CUST0133,South,Beauty,Shampoo,4,399,15,1356.6,Credit Card
+TXN000071,11/7/2025,CUST0043,North,Electronics,USB-C Cable,4,299,0,1196,Debit Card
+TXN000153,11/7/2025,CUST0125,West,Clothing,Jeans,2,1299,0,2598,UPI
+TXN001016,11/7/2025,CUST0005,North,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN001090,11/7/2025,CUST0091,North,Home & Kitchen,Water Bottle,2,399,0,798,Credit Card
+TXN001108,11/7/2025,CUST0011,South,Grocery,Rice 5kg,1,499,0,499,Net Banking
+TXN001230,11/7/2025,CUST0028,North,Home & Kitchen,Nonstick Pan,1,999,15,849.15,Cash
+TXN000149,11/8/2025,CUST0007,East,Clothing,Cotton T-Shirt,1,499,10,449.1,Debit Card
+TXN001102,11/8/2025,CUST0174,West,Beauty,Shampoo,1,399,0,399,Net Banking
+TXN001256,11/8/2025,CUST0136,North,Beauty,Face Wash,2,249,5,473.1,Credit Card
+TXN001333,11/8/2025,CUST0168,South,Clothing,Socks Pack,2,249,10,448.2,Cash
+TXN001343,11/8/2025,CUST0028,Central,Clothing,Socks Pack,2,249,10,448.2,Debit Card
+TXN001489,11/8/2025,CUST0038,South,Beauty,Moisturizer,2,549,0,1098,Net Banking
+TXN000466,11/9/2025,CUST0066,South,Electronics,Power Bank,1,1499,10,1349.1,Debit Card
+TXN000709,11/9/2025,CUST0111,East,Clothing,Kurta,1,899,10,809.1,Net Banking
+TXN000730,11/9/2025,CUST0117,West,Grocery,Coffee,3,349,0,1047,Net Banking
+TXN000902,11/9/2025,CUST0157,North,Electronics,Headphones,1,1299,0,1299,Credit Card
+TXN001183,11/9/2025,CUST0054,North,Home & Kitchen,Nonstick Pan,2,999,5,1898.1,Credit Card
+TXN000225,11/10/2025,CUST0084,East,Beauty,Body Lotion,2,349,0,698,Net Banking
+TXN000575,11/10/2025,CUST0196,East,Clothing,Kurta,2,899,5,1708.1,Cash
+TXN000593,11/10/2025,CUST0040,North,Beauty,Moisturizer,1,549,5,521.55,UPI
+TXN000633,11/10/2025,CUST0146,West,Home & Kitchen,Storage Box,2,499,0,998,Credit Card
+TXN000892,11/10/2025,CUST0186,West,Beauty,Shampoo,2,399,5,758.1,Net Banking
+TXN001009,11/10/2025,CUST0101,West,Home & Kitchen,LED Desk Lamp,1,899,15,764.15,Cash
+TXN000289,11/11/2025,CUST0155,West,Clothing,Cotton T-Shirt,2,499,10,898.2,Cash
+TXN000535,11/11/2025,CUST0103,South,Clothing,Socks Pack,1,249,10,224.1,Cash
+TXN000877,11/11/2025,CUST0095,West,Beauty,Face Wash,1,249,0,249,Credit Card
+TXN000952,11/11/2025,CUST0024,North,Home & Kitchen,Storage Box,5,499,20,1996,Debit Card
+TXN001399,11/11/2025,CUST0083,Central,Home & Kitchen,Storage Box,1,499,10,449.1,Debit Card
+TXN001408,11/11/2025,CUST0024,North,Home & Kitchen,LED Desk Lamp,3,899,0,2697,Credit Card
+TXN000477,11/12/2025,CUST0027,South,Grocery,Rice 5kg,2,499,5,948.1,Net Banking
+TXN000615,11/12/2025,CUST0144,East,Home & Kitchen,Storage Box,1,499,10,449.1,Net Banking
+TXN000741,11/12/2025,CUST0086,Central,Beauty,Face Wash,1,249,0,249,Credit Card
+TXN000974,11/12/2025,CUST0086,North,Clothing,Jeans,1,1299,15,1104.15,Cash
+TXN001112,11/12/2025,CUST0002,South,Clothing,Kurta,1,899,0,899,Cash
+TXN001355,11/12/2025,CUST0156,West,Electronics,Wireless Mouse,2,599,0,1198,Cash
+TXN000113,11/13/2025,CUST0010,North,Clothing,Jeans,2,1299,0,2598,UPI
+TXN000886,11/13/2025,CUST0078,South,Clothing,Hoodie,3,1599,0,4797,UPI
+TXN001217,11/13/2025,CUST0008,South,Electronics,Headphones,1,1299,10,1169.1,Cash
+TXN001491,11/13/2025,CUST0123,East,Home & Kitchen,Nonstick Pan,3,999,0,2997,Cash
+TXN000281,11/14/2025,CUST0050,West,Clothing,Kurta,2,899,0,1798,Cash
+TXN000298,11/14/2025,CUST0086,Central,Clothing,Hoodie,1,1599,10,1439.1,Credit Card
+TXN000431,11/14/2025,CUST0149,Central,Home & Kitchen,Nonstick Pan,1,999,10,899.1,Debit Card
+TXN000592,11/14/2025,CUST0094,West,Electronics,Headphones,3,1299,0,3897,Net Banking
+TXN000647,11/15/2025,CUST0001,North,Electronics,Power Bank,1,1499,5,1424.05,Net Banking
+TXN000989,11/15/2025,CUST0132,West,Beauty,Sunscreen,1,499,0,499,Debit Card
+TXN001092,11/15/2025,CUST0033,South,Grocery,Olive Oil,1,699,5,664.05,Cash
+TXN001342,11/15/2025,CUST0076,Central,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN000060,11/17/2025,CUST0125,East,Beauty,Face Wash,2,249,0,498,Debit Card
+TXN000297,11/17/2025,CUST0185,North,Grocery,Rice 5kg,1,499,0,499,Cash
+TXN000398,11/17/2025,CUST0170,East,Home & Kitchen,Water Bottle,1,399,0,399,UPI
+TXN000664,11/17/2025,CUST0097,North,Home & Kitchen,Nonstick Pan,2,999,0,1998,Debit Card
+TXN000819,11/17/2025,CUST0196,East,Electronics,Power Bank,1,1499,0,1499,UPI
+TXN001222,11/17/2025,CUST0125,West,Beauty,Sunscreen,3,499,5,1422.15,Credit Card
+TXN001476,11/17/2025,CUST0146,West,Electronics,Bluetooth Speaker,1,1899,5,1804.05,Net Banking
+TXN001495,11/17/2025,CUST0103,Central,Grocery,Coffee,1,349,20,279.2,UPI
+TXN000347,11/18/2025,CUST0074,Central,Beauty,Sunscreen,2,499,0,998,Net Banking
+TXN000763,11/18/2025,CUST0134,West,Beauty,Body Lotion,4,349,5,1326.2,Cash
+TXN000917,11/18/2025,CUST0183,Central,Grocery,Rice 5kg,1,499,0,499,Credit Card
+TXN001011,11/18/2025,CUST0071,Central,Electronics,USB-C Cable,3,299,0,897,UPI
+TXN000087,11/19/2025,CUST0148,North,Home & Kitchen,Storage Box,3,499,15,1272.45,Credit Card
+TXN000562,11/20/2025,CUST0108,East,Beauty,Face Wash,1,249,0,249,Debit Card
+TXN000909,11/20/2025,CUST0015,Central,Grocery,Olive Oil,1,699,15,594.15,Debit Card
+TXN001218,11/20/2025,CUST0163,South,Home & Kitchen,Storage Box,2,499,0,998,Net Banking
+TXN001428,11/20/2025,CUST0116,South,Home & Kitchen,Water Bottle,4,399,5,1516.2,Net Banking
+TXN001431,11/20/2025,CUST0169,West,Home & Kitchen,LED Desk Lamp,2,899,0,1798,Net Banking
+TXN000038,11/21/2025,CUST0176,North,Grocery,Oats,1,199,15,169.15,UPI
+TXN000610,11/21/2025,CUST0003,Central,Beauty,Face Wash,1,249,0,249,Net Banking
+TXN000754,11/21/2025,CUST0181,North,Electronics,Power Bank,3,1499,0,4497,Debit Card
+TXN001208,11/21/2025,CUST0026,South,Grocery,Coffee,2,349,15,593.3,Credit Card
+TXN000163,11/22/2025,CUST0165,East,Clothing,Jeans,1,1299,5,1234.05,Debit Card
+TXN000361,11/22/2025,CUST0089,East,Electronics,Bluetooth Speaker,1,1899,10,1709.1,UPI
+TXN000390,11/22/2025,CUST0043,North,Clothing,Hoodie,1,1599,0,1599,Debit Card
+TXN000864,11/22/2025,CUST0169,North,Electronics,USB-C Cable,1,299,0,299,Cash
+TXN001026,11/22/2025,CUST0045,Central,Clothing,Hoodie,1,1599,0,1599,Cash
+TXN001052,11/22/2025,CUST0028,East,Clothing,Cotton T-Shirt,1,499,0,499,UPI
+TXN001214,11/22/2025,CUST0033,West,Home & Kitchen,LED Desk Lamp,3,899,5,2562.15,Credit Card
+TXN000462,11/23/2025,CUST0159,East,Grocery,Tea,1,249,10,224.1,Debit Card
+TXN000713,11/23/2025,CUST0154,Central,Electronics,Wireless Mouse,3,599,0,1797,Credit Card
+TXN000158,11/24/2025,CUST0182,Central,Electronics,Power Bank,1,1499,0,1499,Cash
+TXN000312,11/24/2025,CUST0048,West,Beauty,Face Wash,2,249,15,423.3,Net Banking
+TXN000570,11/24/2025,CUST0135,North,Clothing,Kurta,1,899,0,899,Cash
+TXN000494,11/25/2025,CUST0002,East,Electronics,Headphones,1,1299,10,1169.1,Net Banking
+TXN000706,11/25/2025,CUST0014,East,Electronics,Wireless Mouse,1,599,0,599,Cash
+TXN000957,11/25/2025,CUST0110,East,Electronics,Bluetooth Speaker,1,1899,20,1519.2,UPI
+TXN001405,11/25/2025,CUST0139,East,Electronics,Headphones,1,1299,10,1169.1,Credit Card
+TXN000458,11/26/2025,CUST0003,West,Beauty,Sunscreen,3,499,0,1497,Debit Card
+TXN000122,11/27/2025,CUST0161,North,Beauty,Face Wash,2,249,10,448.2,Debit Card
+TXN000165,11/27/2025,CUST0020,Central,Electronics,Headphones,2,1299,0,2598,Net Banking
+TXN000284,11/27/2025,CUST0112,South,Grocery,Coffee,3,349,15,889.95,Credit Card
+TXN000342,11/27/2025,CUST0071,North,Grocery,Tea,2,249,5,473.1,Debit Card
+TXN000499,11/27/2025,CUST0106,East,Home & Kitchen,Storage Box,1,499,5,474.05,Credit Card
+TXN000574,11/27/2025,CUST0184,South,Beauty,Shampoo,1,399,0,399,Net Banking
+TXN000764,11/27/2025,CUST0189,Central,Home & Kitchen,Water Bottle,1,399,10,359.1,Debit Card
+TXN001210,11/27/2025,CUST0106,Central,Beauty,Face Wash,4,249,10,896.4,Debit Card
+TXN000421,11/28/2025,CUST0034,East,Electronics,USB-C Cable,1,299,10,269.1,Debit Card
+TXN000451,11/28/2025,CUST0170,North,Clothing,Hoodie,4,1599,0,6396,Debit Card
+TXN000518,11/28/2025,CUST0042,South,Electronics,USB-C Cable,1,299,5,284.05,Credit Card
+TXN001417,11/28/2025,CUST0122,South,Electronics,Wireless Mouse,1,599,5,569.05,Credit Card
+TXN001492,11/28/2025,CUST0125,North,Grocery,Oats,1,199,15,169.15,UPI
+TXN000003,11/29/2025,CUST0184,North,Beauty,Shampoo,1,399,0,399,Credit Card
+TXN000681,11/29/2025,CUST0143,South,Clothing,Socks Pack,1,249,5,236.55,Net Banking
+TXN000036,12/1/2025,CUST0157,South,Grocery,Olive Oil,4,699,0,2796,Debit Card
+TXN000320,12/1/2025,CUST0130,South,Beauty,Sunscreen,2,499,0,998,UPI
+TXN000461,12/1/2025,CUST0191,North,Beauty,Sunscreen,1,499,5,474.05,Net Banking
+TXN000508,12/1/2025,CUST0121,East,Clothing,Hoodie,1,1599,10,1439.1,Credit Card
+TXN000514,12/1/2025,CUST0151,Central,Grocery,Olive Oil,1,699,15,594.15,Cash
+TXN000629,12/1/2025,CUST0053,Central,Grocery,Rice 5kg,3,499,0,1497,Credit Card
+TXN000896,12/1/2025,CUST0173,North,Beauty,Shampoo,2,399,0,798,Cash
+TXN001181,12/1/2025,CUST0175,Central,Home & Kitchen,Nonstick Pan,1,999,10,899.1,Debit Card
+TXN001474,12/1/2025,CUST0149,South,Beauty,Shampoo,2,399,5,758.1,Net Banking
+TXN000056,12/2/2025,CUST0038,Central,Electronics,Power Bank,1,1499,10,1349.1,Cash
+TXN000162,12/2/2025,CUST0040,West,Beauty,Sunscreen,2,499,10,898.2,Net Banking
+TXN000275,12/2/2025,CUST0141,West,Clothing,Hoodie,4,1599,5,6076.2,Cash
+TXN000596,12/2/2025,CUST0054,Central,Electronics,Power Bank,3,1499,0,4497,Cash
+TXN001381,12/2/2025,CUST0017,Central,Home & Kitchen,Mixer Grinder,1,2799,20,2239.2,Cash
+TXN000170,12/3/2025,CUST0065,East,Home & Kitchen,Mixer Grinder,1,2799,10,2519.1,Debit Card
+TXN000601,12/3/2025,CUST0087,Central,Grocery,Oats,4,199,15,676.6,Debit Card
+TXN000107,12/4/2025,CUST0149,Central,Home & Kitchen,LED Desk Lamp,1,899,0,899,Net Banking
+TXN000303,12/4/2025,CUST0065,West,Beauty,Sunscreen,1,499,20,399.2,Net Banking
+TXN000998,12/4/2025,CUST0128,West,Clothing,Jeans,1,1299,10,1169.1,Net Banking
+TXN001010,12/4/2025,CUST0099,South,Grocery,Coffee,1,349,15,296.65,Credit Card
+TXN001211,12/4/2025,CUST0069,North,Beauty,Shampoo,1,399,15,339.15,UPI
+TXN000496,12/5/2025,CUST0102,Central,Home & Kitchen,Nonstick Pan,1,999,10,899.1,Debit Card
+TXN000882,12/5/2025,CUST0030,East,Home & Kitchen,LED Desk Lamp,1,899,0,899,Debit Card
+TXN000050,12/6/2025,CUST0081,West,Clothing,Socks Pack,1,249,0,249,Debit Card
+TXN000548,12/6/2025,CUST0174,East,Electronics,Headphones,4,1299,10,4676.4,Net Banking
+TXN000691,12/6/2025,CUST0055,East,Home & Kitchen,Storage Box,2,499,10,898.2,Cash
+TXN000842,12/6/2025,CUST0190,East,Home & Kitchen,Mixer Grinder,2,2799,0,5598,UPI
+TXN000387,12/7/2025,CUST0058,South,Home & Kitchen,LED Desk Lamp,1,899,10,809.1,Credit Card
+TXN000906,12/7/2025,CUST0162,West,Grocery,Oats,2,199,0,398,Cash
+TXN000929,12/7/2025,CUST0160,North,Beauty,Shampoo,3,399,0,1197,Cash
+TXN001056,12/7/2025,CUST0093,North,Grocery,Coffee,4,349,15,1186.6,UPI
+TXN001272,12/7/2025,CUST0143,West,Beauty,Moisturizer,1,549,0,549,UPI
+TXN000824,12/8/2025,CUST0196,West,Grocery,Olive Oil,1,699,0,699,UPI
+TXN001292,12/8/2025,CUST0095,South,Beauty,Face Wash,1,249,10,224.1,UPI
+TXN001363,12/8/2025,CUST0060,South,Electronics,USB-C Cable,2,299,5,568.1,UPI
+TXN000065,12/9/2025,CUST0087,Central,Beauty,Shampoo,3,399,15,1017.45,Net Banking
+TXN000448,12/9/2025,CUST0147,East,Electronics,Headphones,1,1299,10,1169.1,Credit Card
+TXN000901,12/9/2025,CUST0155,North,Electronics,Power Bank,2,1499,20,2398.4,UPI
+TXN001283,12/10/2025,CUST0104,East,Grocery,Oats,3,199,0,597,UPI
+TXN001461,12/10/2025,CUST0129,West,Beauty,Shampoo,2,399,0,798,Credit Card
+TXN000316,12/11/2025,CUST0045,East,Clothing,Socks Pack,2,249,10,448.2,UPI
+TXN000545,12/11/2025,CUST0103,East,Clothing,Cotton T-Shirt,2,499,0,998,Debit Card
+TXN000661,12/11/2025,CUST0087,West,Beauty,Face Wash,2,249,5,473.1,Net Banking
+TXN001286,12/12/2025,CUST0058,North,Home & Kitchen,Mixer Grinder,2,2799,10,5038.2,Cash
+TXN000072,12/13/2025,CUST0148,South,Home & Kitchen,Water Bottle,2,399,10,718.2,UPI
+TXN000437,12/13/2025,CUST0005,South,Home & Kitchen,Storage Box,2,499,0,998,UPI
+TXN000154,12/14/2025,CUST0073,West,Beauty,Body Lotion,2,349,0,698,Net Banking
+TXN000264,12/14/2025,CUST0161,West,Beauty,Face Wash,4,249,15,846.6,Net Banking
+TXN001120,12/14/2025,CUST0014,East,Beauty,Body Lotion,2,349,0,698,Debit Card
+TXN000207,12/15/2025,CUST0120,South,Home & Kitchen,Nonstick Pan,2,999,0,1998,Cash
+TXN001044,12/15/2025,CUST0117,South,Home & Kitchen,Nonstick Pan,2,999,10,1798.2,UPI
+TXN001425,12/15/2025,CUST0079,East,Home & Kitchen,Storage Box,1,499,0,499,Credit Card
+TXN000042,12/16/2025,CUST0054,West,Electronics,Bluetooth Speaker,2,1899,15,3228.3,Net Banking
+TXN001447,12/16/2025,CUST0102,North,Electronics,Power Bank,3,1499,0,4497,Cash
+TXN000732,12/17/2025,CUST0031,North,Home & Kitchen,Mixer Grinder,3,2799,10,7557.3,Net Banking
+TXN000895,12/17/2025,CUST0151,West,Grocery,Oats,1,199,0,199,Cash
+TXN001195,12/17/2025,CUST0195,West,Clothing,Jeans,1,1299,0,1299,UPI
+TXN001479,12/17/2025,CUST0063,North,Home & Kitchen,Storage Box,4,499,5,1896.2,Net Banking
+TXN000049,12/18/2025,CUST0138,East,Home & Kitchen,Mixer Grinder,1,2799,15,2379.15,Net Banking
+TXN000092,12/18/2025,CUST0019,West,Clothing,Socks Pack,2,249,15,423.3,UPI
+TXN000444,12/18/2025,CUST0178,East,Clothing,Hoodie,2,1599,10,2878.2,Net Banking
+TXN000849,12/18/2025,CUST0153,East,Clothing,Hoodie,1,1599,10,1439.1,Credit Card
+TXN000878,12/18/2025,CUST0166,East,Beauty,Body Lotion,2,349,5,663.1,Cash
+TXN001157,12/18/2025,CUST0171,West,Clothing,Kurta,3,899,0,2697,Debit Card
+TXN000307,12/19/2025,CUST0149,Central,Beauty,Moisturizer,1,549,10,494.1,Net Banking
+TXN000419,12/19/2025,CUST0192,South,Electronics,Power Bank,1,1499,15,1274.15,Credit Card
+TXN000655,12/19/2025,CUST0124,Central,Clothing,Hoodie,2,1599,0,3198,Net Banking
+TXN000784,12/19/2025,CUST0126,North,Electronics,Wireless Mouse,2,599,5,1138.1,Net Banking
+TXN001198,12/19/2025,CUST0138,North,Beauty,Moisturizer,3,549,5,1564.65,Net Banking
+TXN001206,12/19/2025,CUST0169,North,Clothing,Socks Pack,4,249,15,846.6,UPI
+TXN001243,12/19/2025,CUST0002,North,Clothing,Cotton T-Shirt,1,499,15,424.15,Debit Card
+TXN001244,12/19/2025,CUST0085,Central,Beauty,Moisturizer,2,549,15,933.3,Cash
+TXN001287,12/19/2025,CUST0160,Central,Electronics,Wireless Mouse,1,599,15,509.15,UPI
+TXN001368,12/19/2025,CUST0181,Central,Electronics,Power Bank,1,1499,10,1349.1,Debit Card
+TXN001372,12/19/2025,CUST0108,Central,Beauty,Body Lotion,1,349,0,349,Credit Card
+TXN000443,12/20/2025,CUST0013,South,Beauty,Sunscreen,1,499,0,499,Credit Card
+TXN000605,12/20/2025,CUST0198,South,Grocery,Tea,2,249,15,423.3,UPI
+TXN000608,12/20/2025,CUST0125,Central,Electronics,Headphones,2,1299,0,2598,Cash
+TXN000300,12/22/2025,CUST0189,West,Grocery,Rice 5kg,1,499,0,499,Debit Card
+TXN000411,12/22/2025,CUST0175,West,Beauty,Moisturizer,2,549,0,1098,Debit Card
+TXN000542,12/22/2025,CUST0065,West,Grocery,Oats,2,199,10,358.2,Cash
+TXN000847,12/22/2025,CUST0117,South,Electronics,USB-C Cable,2,299,10,538.2,UPI
+TXN000964,12/22/2025,CUST0081,East,Home & Kitchen,Water Bottle,3,399,0,1197,Net Banking
+TXN001083,12/22/2025,CUST0071,West,Grocery,Rice 5kg,1,499,20,399.2,Debit Card
+TXN000265,12/23/2025,CUST0082,West,Home & Kitchen,Mixer Grinder,1,2799,10,2519.1,Credit Card
+TXN000533,12/23/2025,CUST0158,North,Electronics,USB-C Cable,1,299,5,284.05,Credit Card
+TXN000714,12/23/2025,CUST0029,West,Clothing,Hoodie,2,1599,0,3198,Debit Card
+TXN001018,12/23/2025,CUST0114,North,Grocery,Coffee,1,349,0,349,Net Banking
+TXN001049,12/23/2025,CUST0018,East,Beauty,Moisturizer,2,549,0,1098,Credit Card
+TXN001075,12/23/2025,CUST0073,Central,Grocery,Oats,1,199,0,199,UPI
+TXN001166,12/23/2025,CUST0031,North,Beauty,Face Wash,2,249,0,498,UPI
+TXN001423,12/23/2025,CUST0146,North,Beauty,Face Wash,1,249,0,249,Credit Card
+TXN000085,12/24/2025,CUST0075,West,Beauty,Face Wash,3,249,5,709.65,Cash
+TXN000171,12/24/2025,CUST0168,Central,Home & Kitchen,Nonstick Pan,2,999,0,1998,Cash
+TXN000614,12/24/2025,CUST0199,Central,Home & Kitchen,LED Desk Lamp,2,899,5,1708.1,Credit Card
+TXN001057,12/24/2025,CUST0117,East,Home & Kitchen,Water Bottle,2,399,15,678.3,Credit Card
+TXN001298,12/24/2025,CUST0034,North,Grocery,Olive Oil,2,699,10,1258.2,UPI
+TXN001302,12/24/2025,CUST0028,West,Home & Kitchen,Nonstick Pan,2,999,0,1998,Cash
+TXN001437,12/24/2025,CUST0153,North,Grocery,Rice 5kg,1,499,0,499,UPI
+TXN000445,12/25/2025,CUST0156,North,Electronics,Headphones,2,1299,0,2598,UPI
+TXN001125,12/25/2025,CUST0079,West,Home & Kitchen,Mixer Grinder,1,2799,0,2799,UPI
+TXN001291,12/25/2025,CUST0131,Central,Beauty,Sunscreen,1,499,10,449.1,Cash
+TXN000852,12/26/2025,CUST0068,South,Electronics,Power Bank,2,1499,5,2848.1,UPI
+TXN000889,12/26/2025,CUST0040,South,Beauty,Face Wash,3,249,5,709.65,Debit Card
+TXN001317,12/26/2025,CUST0111,East,Home & Kitchen,Water Bottle,1,399,15,339.15,Debit Card
+TXN000480,12/27/2025,CUST0163,South,Clothing,Socks Pack,1,249,5,236.55,Debit Card
+TXN000829,12/27/2025,CUST0161,West,Home & Kitchen,Nonstick Pan,1,999,10,899.1,Debit Card
+TXN000953,12/27/2025,CUST0127,West,Home & Kitchen,Water Bottle,1,399,10,359.1,UPI
+TXN001309,12/27/2025,CUST0100,Central,Home & Kitchen,Mixer Grinder,1,2799,5,2659.05,Net Banking
+TXN000772,12/28/2025,CUST0166,West,Clothing,Socks Pack,2,249,10,448.2,Debit Card
+TXN000351,12/29/2025,CUST0004,Central,Electronics,USB-C Cable,1,299,0,299,Debit Card
+TXN000597,12/29/2025,CUST0095,East,Grocery,Olive Oil,1,699,10,629.1,UPI
+TXN000644,12/29/2025,CUST0135,West,Grocery,Tea,4,249,0,996,UPI
+TXN001138,12/29/2025,CUST0129,East,Clothing,Kurta,3,899,0,2697,Net Banking
+TXN000474,12/30/2025,CUST0171,North,Grocery,Olive Oil,3,699,0,2097,Net Banking
+TXN000866,12/30/2025,CUST0092,South,Beauty,Sunscreen,1,499,10,449.1,UPI
+TXN001215,12/30/2025,CUST0026,East,Grocery,Coffee,2,349,10,628.2,Net Banking
+TXN001158,12/31/2025,CUST0068,South,Electronics,USB-C Cable,2,299,0,598,Cash
+TXN001171,12/31/2025,CUST0142,South,Grocery,Tea,1,249,0,249,Debit Card
+TXN001196,12/31/2025,CUST0077,South,Beauty,Body Lotion,1,349,15,296.65,UPI
+TXN001280,12/31/2025,CUST0176,West,Clothing,Hoodie,1,1599,20,1279.2,UPI

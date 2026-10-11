@@ -1,0 +1,6 @@
+payment_method,transaction_count,total_revenue_inr,average_transaction_value_inr
+Credit Card,293,387315.90,1321.897270
+Cash,304,381948.90,1256.410855
+Net Banking,318,380325.20,1195.991195
+UPI,293,369043.10,1259.532765
+Debit Card,292,364368.10,1247.835959

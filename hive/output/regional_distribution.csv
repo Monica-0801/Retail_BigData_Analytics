@@ -1,0 +1,6 @@
+region,transaction_count,distinct_customers,quantity_sold
+North,308,158,527
+East,304,158,503
+South,302,159,532
+West,295,154,526
+Central,291,152,485

@@ -1,0 +1,38 @@
+Total Revenue (INR) =
+SUM ( RetailTransactions[sales_amount_inr] )
+
+Total Transactions =
+DISTINCTCOUNT ( RetailTransactions[transaction_id] )
+
+Average Order Value (INR) =
+DIVIDE ( [Total Revenue (INR)], [Total Transactions] )
+
+Transaction Volume =
+[Total Transactions]
+
+Quantity Sold =
+SUM ( RetailTransactions[quantity] )
+
+Average Discount (%) =
+AVERAGE ( RetailTransactions[discount_pct] )
+
+Total Customers =
+DISTINCTCOUNT ( RetailTransactions[customer_id] )
+
+Average Purchases per Customer =
+DIVIDE ( [Total Transactions], [Total Customers] )
+
+Customer Purchase Frequency =
+DISTINCTCOUNT ( RetailTransactions[transaction_id] )
+
+Customer Revenue (INR) =
+[Total Revenue (INR)]
+
+Repeat Customers =
+CALCULATE (
+    DISTINCTCOUNT ( RetailTransactions[customer_id] ),
+    FILTER (
+        VALUES ( RetailTransactions[customer_id] ),
+        CALCULATE ( DISTINCTCOUNT ( RetailTransactions[transaction_id] ) ) > 1
+    )
+)

@@ -1,0 +1,6 @@
+payment_method,transaction_count,total_revenue_inr,transaction_share_pct
+Net Banking,318,380325.20,21.20
+Cash,304,381948.90,20.27
+Credit Card,293,387315.90,19.53
+UPI,293,369043.10,19.53
+Debit Card,292,364368.10,19.47
